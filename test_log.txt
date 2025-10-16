@@ -1,0 +1,1941 @@
+2025-07-18 22:54:15,550 [INFO]  STARTING TEST: test_login
+2025-07-18 22:54:43,794 [INFO]  STARTING TEST: test_login
+2025-07-18 22:54:45,134 [INFO] Navigating to login page
+2025-07-18 22:54:51,268 [INFO] Entering mobile number
+2025-07-18 22:54:53,554 [INFO] Entering OTP
+2025-07-18 22:54:55,614 [INFO] Verifying login success
+2025-07-18 23:14:57,835 [INFO]  STARTING TEST: test_signup
+2025-07-18 23:14:59,862 [INFO] Navigating to signup page
+2025-07-18 23:15:04,897 [INFO] Navigated to signup page.
+2025-07-18 23:15:06,270 [INFO] Clicked 'Join reelOn' link.
+2025-07-18 23:15:06,271 [INFO] Filling signup form
+2025-07-18 23:15:06,271 [INFO] Filling signup form...
+2025-07-18 23:15:16,916 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-18_23-15-16.png
+2025-07-18 23:55:22,057 [INFO]  STARTING TEST: test_login
+2025-07-18 23:55:23,551 [INFO] Navigating to login page
+2025-07-18 23:55:30,690 [INFO] Entering mobile number
+2025-07-18 23:55:33,096 [INFO] Entering OTP
+2025-07-18 23:55:34,955 [INFO] Verifying login success
+2025-07-18 23:58:13,343 [INFO]  STARTING TEST: test_login
+2025-07-18 23:58:14,682 [INFO] Navigating to login page
+2025-07-18 23:58:21,444 [INFO] Entering mobile number
+2025-07-18 23:58:23,853 [INFO] Entering OTP
+2025-07-18 23:58:25,627 [INFO] Verifying login success
+2025-07-18 23:58:46,990 [INFO]  Screenshot saved to screenshots/test_login_2025-07-18_23-58-46.png
+2025-07-19 00:37:43,760 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 00:38:12,488 [INFO] Uploading profile photo...
+2025-07-19 00:39:08,760 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_00-39-08.png
+2025-07-19 00:43:04,569 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 00:43:32,051 [INFO] Uploading profile photo...
+2025-07-19 00:44:29,095 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_00-44-28.png
+2025-07-19 00:48:17,957 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 00:49:43,277 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_00-49-43.png
+2025-07-19 00:51:26,326 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 00:52:41,860 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_00-52-41.png
+2025-07-19 00:58:53,670 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 01:00:11,933 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_01-00-11.png
+2025-07-19 14:23:33,247 [INFO]  STARTING TEST: test_login
+2025-07-19 14:23:35,430 [INFO] Navigating to login page
+2025-07-19 14:23:45,098 [INFO] Entering mobile number
+2025-07-19 14:23:47,594 [INFO] Entering OTP
+2025-07-19 14:23:49,384 [INFO] Verifying login success
+2025-07-19 14:24:53,240 [INFO]  STARTING TEST: test_login
+2025-07-19 14:24:54,662 [INFO] Navigating to login page
+2025-07-19 14:25:01,745 [INFO] Entering mobile number
+2025-07-19 14:25:04,112 [INFO] Entering OTP
+2025-07-19 14:25:05,609 [INFO] Verifying login success
+2025-07-19 14:25:26,976 [INFO]  Screenshot saved to screenshots/test_login_2025-07-19_14-25-26.png
+2025-07-19 14:27:27,837 [INFO]  STARTING TEST: test_login
+2025-07-19 14:27:29,332 [INFO] Navigating to login page
+2025-07-19 14:27:36,255 [INFO] Entering mobile number
+2025-07-19 14:27:38,655 [INFO] Entering OTP
+2025-07-19 14:27:40,591 [INFO] Verifying login success
+2025-07-19 15:18:19,032 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:19:17,768 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_15-19-17.png
+2025-07-19 15:22:52,062 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:28:07,291 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:29:22,268 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_15-29-22.png
+2025-07-19 15:34:55,455 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:36:03,242 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:47:46,830 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:48:34,532 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_15-48-34.png
+2025-07-19 15:49:02,938 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:49:49,278 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_15-49-48.png
+2025-07-19 15:50:16,089 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:51:06,245 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_15-51-06.png
+2025-07-19 15:52:46,541 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 15:56:40,401 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 18:38:43,641 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 18:39:13,343 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_18-39-13.png
+2025-07-19 18:44:31,516 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 18:45:11,340 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-19_18-45-11.png
+2025-07-19 18:49:55,902 [INFO]  STARTING TEST: test_profile_setup
+2025-07-19 19:05:38,182 [INFO]  STARTING TEST: test_signup
+2025-07-19 19:05:39,782 [INFO] Navigating to signup page
+2025-07-19 19:05:44,599 [INFO] Navigated to signup page.
+2025-07-19 19:05:45,924 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 19:05:45,925 [INFO] Filling signup form
+2025-07-19 19:05:45,928 [INFO] Filling signup form...
+2025-07-19 19:05:47,280 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_19-05-47.png
+2025-07-19 19:18:21,225 [INFO]  STARTING TEST: test_signup
+2025-07-19 19:18:22,588 [INFO] Navigating to signup page
+2025-07-19 19:18:27,744 [INFO] Navigated to signup page.
+2025-07-19 19:18:28,991 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 19:18:28,991 [INFO] Filling signup form
+2025-07-19 19:18:29,632 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_19-18-29.png
+2025-07-19 19:19:18,582 [INFO]  STARTING TEST: test_signup
+2025-07-19 19:19:19,976 [INFO] Navigating to signup page
+2025-07-19 19:19:25,369 [INFO] Navigated to signup page.
+2025-07-19 19:19:26,702 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 19:19:26,703 [INFO] Filling signup form
+2025-07-19 19:19:26,703 [INFO] Filling signup form...
+2025-07-19 19:19:27,329 [INFO] Signup page opened
+2025-07-19 19:19:27,943 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_19-19-27.png
+2025-07-19 19:22:19,167 [INFO]  STARTING TEST: test_signup
+2025-07-19 19:22:20,542 [INFO] Navigating to signup page
+2025-07-19 19:22:25,330 [INFO] Navigated to signup page.
+2025-07-19 19:22:26,477 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 19:22:26,477 [INFO] Filling signup form
+2025-07-19 19:22:26,478 [INFO] Filling signup form...
+2025-07-19 19:22:27,106 [INFO] Signup page opened
+2025-07-19 19:22:27,138 [INFO] element found
+2025-07-19 19:22:27,766 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_19-22-27.png
+2025-07-19 19:22:55,390 [INFO]  STARTING TEST: test_signup
+2025-07-19 19:22:56,695 [INFO] Navigating to signup page
+2025-07-19 19:23:02,180 [INFO] Navigated to signup page.
+2025-07-19 19:23:03,438 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 19:23:03,439 [INFO] Filling signup form
+2025-07-19 19:23:03,440 [INFO] Filling signup form...
+2025-07-19 19:23:04,072 [INFO] Signup page opened
+2025-07-19 19:23:04,132 [INFO] element found
+2025-07-19 19:23:04,133 [INFO] clicked
+2025-07-19 19:23:04,703 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_19-23-04.png
+2025-07-19 19:25:58,942 [INFO]  STARTING TEST: test_signup
+2025-07-19 19:26:00,332 [INFO] Navigating to signup page
+2025-07-19 19:26:05,725 [INFO] Navigated to signup page.
+2025-07-19 19:26:07,922 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 19:26:07,922 [INFO] Filling signup form
+2025-07-19 19:26:07,923 [INFO] Filling signup form...
+2025-07-19 19:26:08,549 [INFO] Signup page opened
+2025-07-19 19:26:08,761 [INFO] phone number entered
+2025-07-19 19:26:09,456 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_19-26-09.png
+2025-07-19 20:10:07,658 [INFO]  STARTING TEST: test_signup
+2025-07-19 20:10:10,922 [INFO] Navigating to signup page
+2025-07-19 20:10:15,972 [INFO] Navigated to signup page.
+2025-07-19 20:10:17,515 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 20:10:17,515 [INFO] Filling signup form
+2025-07-19 20:10:17,516 [INFO] Filling signup form...
+2025-07-19 20:10:18,128 [INFO] Signup page opened
+2025-07-19 20:10:18,344 [INFO] phone number entered
+2025-07-19 20:10:28,292 [INFO] All validations passed, proceeding with signup.
+2025-07-19 20:10:28,390 [INFO] Submitted signup form.
+2025-07-19 20:10:28,390 [INFO] Extracting OTP from popup
+2025-07-19 20:10:28,947 [WARNING] Extracted OTP is not 6 digits: 
+2025-07-19 20:10:29,700 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_20-10-29.png
+2025-07-19 21:09:59,620 [INFO]  STARTING TEST: test_signup
+2025-07-19 21:10:00,942 [INFO] Navigating to signup page
+2025-07-19 21:10:06,015 [INFO] Navigated to signup page.
+2025-07-19 21:10:07,450 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 21:10:07,451 [INFO] Filling signup form
+2025-07-19 21:10:07,451 [INFO] Filling signup form...
+2025-07-19 21:10:08,049 [INFO] Signup page opened
+2025-07-19 21:10:08,273 [INFO] phone number entered
+2025-07-19 21:10:19,946 [WARNING] DOB selection failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff66bd4e925+77845]
+	GetHandleVerifier [0x0x7ff66bd4e980+77936]
+	(No symbol) [0x0x7ff66bb09cda]
+	(No symbol) [0x0x7ff66bb606aa]
+	(No symbol) [0x0x7ff66bb6095c]
+	(No symbol) [0x0x7ff66bbb3d07]
+	(No symbol) [0x0x7ff66bb8890f]
+	(No symbol) [0x0x7ff66bbb0b07]
+	(No symbol) [0x0x7ff66bb886a3]
+	(No symbol) [0x0x7ff66bb51791]
+	(No symbol) [0x0x7ff66bb52523]
+	GetHandleVerifier [0x0x7ff66c02683d+3059501]
+	GetHandleVerifier [0x0x7ff66c020bfd+3035885]
+	GetHandleVerifier [0x0x7ff66c0403f0+3164896]
+	GetHandleVerifier [0x0x7ff66bd68c2e+185118]
+	GetHandleVerifier [0x0x7ff66bd7053f+216111]
+	GetHandleVerifier [0x0x7ff66bd572d4+113092]
+	GetHandleVerifier [0x0x7ff66bd57489+113529]
+	GetHandleVerifier [0x0x7ff66bd3e288+10616]
+	BaseThreadInitThunk [0x0x7fffc347e8d7+23]
+	RtlUserThreadStart [0x0x7fffc4b5c34c+44]
+
+2025-07-19 21:10:20,067 [INFO] All validations passed, proceeding with signup.
+2025-07-19 21:10:20,249 [INFO] Submitted signup form.
+2025-07-19 21:10:20,250 [INFO] Extracting OTP from popup
+2025-07-19 21:10:20,867 [WARNING] Extracted OTP is not 6 digits: 
+2025-07-19 21:10:21,538 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_21-10-21.png
+2025-07-19 21:13:34,489 [INFO]  STARTING TEST: test_signup
+2025-07-19 21:13:36,505 [INFO] Navigating to signup page
+2025-07-19 21:13:41,153 [INFO] Navigated to signup page.
+2025-07-19 21:13:42,322 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 21:13:42,323 [INFO] Filling signup form
+2025-07-19 21:13:42,324 [INFO] Filling signup form...
+2025-07-19 21:13:42,941 [INFO] Signup page opened
+2025-07-19 21:13:43,190 [INFO] phone number entered
+2025-07-19 21:13:54,360 [WARNING] DOB selection failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff66bd4e925+77845]
+	GetHandleVerifier [0x0x7ff66bd4e980+77936]
+	(No symbol) [0x0x7ff66bb09cda]
+	(No symbol) [0x0x7ff66bb606aa]
+	(No symbol) [0x0x7ff66bb6095c]
+	(No symbol) [0x0x7ff66bbb3d07]
+	(No symbol) [0x0x7ff66bb8890f]
+	(No symbol) [0x0x7ff66bbb0b07]
+	(No symbol) [0x0x7ff66bb886a3]
+	(No symbol) [0x0x7ff66bb51791]
+	(No symbol) [0x0x7ff66bb52523]
+	GetHandleVerifier [0x0x7ff66c02683d+3059501]
+	GetHandleVerifier [0x0x7ff66c020bfd+3035885]
+	GetHandleVerifier [0x0x7ff66c0403f0+3164896]
+	GetHandleVerifier [0x0x7ff66bd68c2e+185118]
+	GetHandleVerifier [0x0x7ff66bd7053f+216111]
+	GetHandleVerifier [0x0x7ff66bd572d4+113092]
+	GetHandleVerifier [0x0x7ff66bd57489+113529]
+	GetHandleVerifier [0x0x7ff66bd3e288+10616]
+	BaseThreadInitThunk [0x0x7fffc347e8d7+23]
+	RtlUserThreadStart [0x0x7fffc4b5c34c+44]
+
+2025-07-19 21:13:54,442 [INFO] All validations passed, proceeding with signup.
+2025-07-19 21:13:54,541 [INFO] Submitted signup form.
+2025-07-19 21:13:54,542 [INFO] Extracting OTP from popup
+2025-07-19 21:13:55,139 [WARNING] Extracted OTP is not 6 digits: 
+2025-07-19 21:13:55,589 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_21-13-55.png
+2025-07-19 22:01:18,649 [INFO]  STARTING TEST: test_signup
+2025-07-19 22:01:20,353 [INFO] Navigating to signup page
+2025-07-19 22:01:25,255 [INFO] Navigated to signup page.
+2025-07-19 22:01:26,659 [INFO] Clicked 'Join reelOn' link.
+2025-07-19 22:01:26,660 [INFO] Filling signup form
+2025-07-19 22:01:26,660 [INFO] Filling signup form...
+2025-07-19 22:01:27,296 [INFO] Signup page opened
+2025-07-19 22:01:27,518 [INFO] phone number entered
+2025-07-19 22:01:29,717 [INFO] All validations passed, proceeding with signup.
+2025-07-19 22:01:29,904 [INFO] Submitted signup form.
+2025-07-19 22:01:29,905 [INFO] Extracting OTP from popup
+2025-07-19 22:01:30,479 [WARNING] Extracted OTP is not 6 digits: 
+2025-07-19 22:01:30,986 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-19_22-01-30.png
+2025-07-21 14:35:11,776 [INFO]  STARTING TEST: test_signup
+2025-07-21 14:35:13,579 [INFO] Navigating to signup page
+2025-07-21 14:35:18,686 [INFO] Navigated to signup page.
+2025-07-21 14:35:20,215 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 14:35:20,215 [INFO] Filling signup form
+2025-07-21 14:35:20,725 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_14-35-20.png
+2025-07-21 14:36:29,506 [INFO]  STARTING TEST: test_signup
+2025-07-21 14:36:32,027 [INFO] Navigating to signup page
+2025-07-21 14:36:37,223 [INFO] Navigated to signup page.
+2025-07-21 14:36:39,561 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 14:36:39,562 [INFO] Filling signup form
+2025-07-21 14:36:39,563 [INFO] Filling signup form...
+2025-07-21 14:36:40,165 [INFO] Signup page opened
+2025-07-21 14:36:40,660 [INFO] phone number entered
+2025-07-21 14:36:43,610 [INFO] All validations passed, proceeding with signup.
+2025-07-21 14:36:43,865 [INFO] Submitted signup form.
+2025-07-21 14:36:43,865 [INFO] Extracting OTP from popup
+2025-07-21 14:36:45,115 [INFO] OTP received: 431726
+2025-07-21 14:36:58,300 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_14-36-57.png
+2025-07-21 16:10:40,828 [INFO]  STARTING TEST: test_signup
+2025-07-21 16:10:42,893 [INFO] Navigating to signup page
+2025-07-21 16:10:48,752 [INFO] Navigated to signup page.
+2025-07-21 16:10:50,215 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 16:10:50,216 [INFO] Filling signup form
+2025-07-21 16:10:50,217 [INFO] Filling signup form...
+2025-07-21 16:10:50,825 [INFO] Signup page opened
+2025-07-21 16:10:51,029 [INFO] phone number entered
+2025-07-21 16:10:52,966 [INFO] All validations passed, proceeding with signup.
+2025-07-21 16:10:53,095 [INFO] Submitted signup form.
+2025-07-21 16:10:53,096 [INFO] Extracting OTP from popup
+2025-07-21 16:10:53,662 [INFO] OTP received: 630234
+2025-07-21 16:11:01,128 [INFO] OTP verified successfully.
+2025-07-21 16:11:01,129 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 16:11:01,129 [INFO] Filling Basic details
+2025-07-21 16:11:01,130 [INFO] Uploading Cover Image
+2025-07-21 16:11:11,618 [WARNING] Error uploading images: Message: 
+
+2025-07-21 16:11:11,752 [INFO] Gender selected.
+2025-07-21 16:11:11,754 [INFO] Selecting title and location
+2025-07-21 16:11:11,755 [INFO] Entering title and location...
+2025-07-21 16:11:13,897 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_16-11-13.png
+2025-07-21 16:29:56,190 [INFO]  STARTING TEST: test_signup
+2025-07-21 16:29:57,663 [INFO] Navigating to signup page
+2025-07-21 16:30:02,349 [INFO] Navigated to signup page.
+2025-07-21 16:30:03,655 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 16:30:03,656 [INFO] Filling signup form
+2025-07-21 16:30:03,656 [INFO] Filling signup form...
+2025-07-21 16:30:05,351 [INFO] Signup page opened
+2025-07-21 16:30:05,495 [INFO] phone number entered
+2025-07-21 16:30:08,036 [INFO] All validations passed, proceeding with signup.
+2025-07-21 16:30:08,167 [INFO] Submitted signup form.
+2025-07-21 16:30:08,167 [INFO] Extracting OTP from popup
+2025-07-21 16:30:08,738 [INFO] OTP received: 919810
+2025-07-21 16:30:16,302 [INFO] OTP verified successfully.
+2025-07-21 16:30:16,302 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 16:30:16,302 [INFO] Filling Basic details
+2025-07-21 16:30:16,303 [INFO] Uploading Cover Image
+2025-07-21 16:30:27,354 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_16-30-27.png
+2025-07-21 16:38:50,620 [INFO]  STARTING TEST: test_signup
+2025-07-21 16:38:52,078 [INFO] Navigating to signup page
+2025-07-21 16:38:56,585 [INFO] Navigated to signup page.
+2025-07-21 16:38:57,698 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 16:38:57,699 [INFO] Filling signup form
+2025-07-21 16:38:57,700 [INFO] Filling signup form...
+2025-07-21 16:38:58,363 [INFO] Signup page opened
+2025-07-21 16:38:58,558 [INFO] phone number entered
+2025-07-21 16:39:00,541 [INFO] All validations passed, proceeding with signup.
+2025-07-21 16:39:00,655 [INFO] Submitted signup form.
+2025-07-21 16:39:00,655 [INFO] Extracting OTP from popup
+2025-07-21 16:39:01,228 [INFO] OTP received: 821113
+2025-07-21 16:39:08,931 [INFO] OTP verified successfully.
+2025-07-21 16:39:08,931 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 16:39:08,932 [INFO] Filling Basic details
+2025-07-21 16:39:08,932 [INFO] Uploading Cover Image
+2025-07-21 16:39:19,786 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_16-39-19.png
+2025-07-21 16:42:52,032 [INFO]  STARTING TEST: test_signup
+2025-07-21 16:42:53,385 [INFO] Navigating to signup page
+2025-07-21 16:42:57,806 [INFO] Navigated to signup page.
+2025-07-21 16:42:58,893 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 16:42:58,894 [INFO] Filling signup form
+2025-07-21 16:42:58,894 [INFO] Filling signup form...
+2025-07-21 16:42:59,525 [INFO] Signup page opened
+2025-07-21 16:42:59,715 [INFO] phone number entered
+2025-07-21 16:43:01,827 [INFO] All validations passed, proceeding with signup.
+2025-07-21 16:43:02,041 [INFO] Submitted signup form.
+2025-07-21 16:43:02,041 [INFO] Extracting OTP from popup
+2025-07-21 16:43:02,633 [INFO] OTP received: 244208
+2025-07-21 16:43:10,211 [INFO] OTP verified successfully.
+2025-07-21 16:43:10,212 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 16:43:10,212 [INFO] Filling Basic details
+2025-07-21 16:43:10,212 [INFO] Uploading Cover Image
+2025-07-21 16:43:13,806 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_16-43-13.png
+2025-07-21 16:44:22,215 [INFO]  STARTING TEST: test_signup
+2025-07-21 16:44:23,560 [INFO] Navigating to signup page
+2025-07-21 16:44:28,433 [INFO] Navigated to signup page.
+2025-07-21 16:44:29,468 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 16:44:29,469 [INFO] Filling signup form
+2025-07-21 16:44:29,469 [INFO] Filling signup form...
+2025-07-21 16:44:30,122 [INFO] Signup page opened
+2025-07-21 16:44:30,302 [INFO] phone number entered
+2025-07-21 16:44:32,275 [INFO] All validations passed, proceeding with signup.
+2025-07-21 16:44:32,416 [INFO] Submitted signup form.
+2025-07-21 16:44:32,416 [INFO] Extracting OTP from popup
+2025-07-21 16:44:33,003 [INFO] OTP received: 321886
+2025-07-21 16:44:40,603 [INFO] OTP verified successfully.
+2025-07-21 16:44:40,603 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 16:44:40,603 [INFO] Filling Basic details
+2025-07-21 16:44:40,604 [INFO] Uploading Cover Image
+2025-07-21 16:44:51,208 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_16-44-51.png
+2025-07-21 16:49:27,013 [INFO]  STARTING TEST: test_signup
+2025-07-21 16:49:28,332 [INFO] Navigating to signup page
+2025-07-21 16:49:33,297 [INFO] Navigated to signup page.
+2025-07-21 16:49:34,352 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 16:49:34,353 [INFO] Filling signup form
+2025-07-21 16:49:34,354 [INFO] Filling signup form...
+2025-07-21 16:49:35,015 [INFO] Signup page opened
+2025-07-21 16:49:35,243 [INFO] phone number entered
+2025-07-21 16:49:37,337 [INFO] All validations passed, proceeding with signup.
+2025-07-21 16:49:37,462 [INFO] Submitted signup form.
+2025-07-21 16:49:37,463 [INFO] Extracting OTP from popup
+2025-07-21 16:49:38,064 [INFO] OTP received: 680714
+2025-07-21 16:49:45,674 [INFO] OTP verified successfully.
+2025-07-21 16:49:45,674 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 16:49:45,674 [INFO] Filling Basic details
+2025-07-21 16:49:45,674 [INFO] Uploading Cover Image
+2025-07-21 16:49:46,000 [INFO] Cover image uploaded and saved.
+2025-07-21 16:49:49,002 [INFO] Uploading Profile Image
+2025-07-21 16:49:59,860 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_16-49-59.png
+2025-07-21 16:52:15,868 [INFO]  STARTING TEST: test_signup
+2025-07-21 16:52:17,254 [INFO] Navigating to signup page
+2025-07-21 16:52:26,611 [INFO] Navigated to signup page.
+2025-07-21 16:52:27,884 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 16:52:27,885 [INFO] Filling signup form
+2025-07-21 16:52:27,885 [INFO] Filling signup form...
+2025-07-21 16:52:28,561 [INFO] Signup page opened
+2025-07-21 16:52:28,808 [INFO] phone number entered
+2025-07-21 16:52:30,795 [INFO] All validations passed, proceeding with signup.
+2025-07-21 16:52:30,945 [INFO] Submitted signup form.
+2025-07-21 16:52:30,945 [INFO] Extracting OTP from popup
+2025-07-21 16:52:31,549 [INFO] OTP received: 280727
+2025-07-21 16:52:39,071 [INFO] OTP verified successfully.
+2025-07-21 16:52:39,072 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 16:52:39,072 [INFO] Filling Basic details
+2025-07-21 16:52:39,072 [INFO] Uploading Cover Image
+2025-07-21 16:52:42,090 [INFO] Cover image uploaded and saved.
+2025-07-21 16:52:45,093 [INFO] Uploading Profile Image
+2025-07-21 16:52:55,827 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_16-52-55.png
+2025-07-21 17:02:04,876 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:02:06,461 [INFO] Navigating to signup page
+2025-07-21 17:02:11,526 [INFO] Navigated to signup page.
+2025-07-21 17:02:12,720 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:02:12,721 [INFO] Filling signup form
+2025-07-21 17:02:12,721 [INFO] Filling signup form...
+2025-07-21 17:02:13,377 [INFO] Signup page opened
+2025-07-21 17:02:13,601 [INFO] phone number entered
+2025-07-21 17:02:15,414 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:02:15,527 [INFO] Submitted signup form.
+2025-07-21 17:02:15,527 [INFO] Extracting OTP from popup
+2025-07-21 17:02:16,104 [INFO] OTP received: 469180
+2025-07-21 17:02:23,917 [INFO] OTP verified successfully.
+2025-07-21 17:02:23,917 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:02:23,917 [INFO] Filling Basic details
+2025-07-21 17:02:34,880 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-02-34.png
+2025-07-21 17:04:12,866 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:04:14,267 [INFO] Navigating to signup page
+2025-07-21 17:04:19,274 [INFO] Navigated to signup page.
+2025-07-21 17:04:20,447 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:04:20,447 [INFO] Filling signup form
+2025-07-21 17:04:20,447 [INFO] Filling signup form...
+2025-07-21 17:04:21,079 [INFO] Signup page opened
+2025-07-21 17:04:21,329 [INFO] phone number entered
+2025-07-21 17:04:23,361 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:04:23,558 [INFO] Submitted signup form.
+2025-07-21 17:04:23,558 [INFO] Extracting OTP from popup
+2025-07-21 17:04:24,130 [INFO] OTP received: 865845
+2025-07-21 17:04:31,672 [INFO] OTP verified successfully.
+2025-07-21 17:04:31,672 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:04:31,673 [INFO] Filling Basic details
+2025-07-21 17:04:31,724 [INFO] Uploading Cover Image
+2025-07-21 17:04:42,442 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-04-42.png
+2025-07-21 17:08:12,858 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:08:14,135 [INFO] Navigating to signup page
+2025-07-21 17:08:19,185 [INFO] Navigated to signup page.
+2025-07-21 17:08:20,340 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:08:20,341 [INFO] Filling signup form
+2025-07-21 17:08:20,341 [INFO] Filling signup form...
+2025-07-21 17:08:21,001 [INFO] Signup page opened
+2025-07-21 17:08:21,241 [INFO] phone number entered
+2025-07-21 17:08:23,191 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:08:23,349 [INFO] Submitted signup form.
+2025-07-21 17:08:23,349 [INFO] Extracting OTP from popup
+2025-07-21 17:08:23,943 [INFO] OTP received: 873046
+2025-07-21 17:08:31,627 [INFO] OTP verified successfully.
+2025-07-21 17:08:31,627 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:08:31,628 [INFO] Filling Basic details
+2025-07-21 17:08:31,628 [INFO] Uploading Cover Image
+2025-07-21 17:08:42,260 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-08-42.png
+2025-07-21 17:11:02,534 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:11:04,746 [INFO] Navigating to signup page
+2025-07-21 17:11:09,503 [INFO] Navigated to signup page.
+2025-07-21 17:11:10,744 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:11:10,745 [INFO] Filling signup form
+2025-07-21 17:11:10,745 [INFO] Filling signup form...
+2025-07-21 17:11:11,429 [INFO] Signup page opened
+2025-07-21 17:11:11,657 [INFO] phone number entered
+2025-07-21 17:11:13,637 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:11:13,764 [INFO] Submitted signup form.
+2025-07-21 17:11:13,764 [INFO] Extracting OTP from popup
+2025-07-21 17:11:14,343 [INFO] OTP received: 326947
+2025-07-21 17:11:22,091 [INFO] OTP verified successfully.
+2025-07-21 17:11:22,092 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:11:22,092 [INFO] Filling Basic details
+2025-07-21 17:11:22,092 [INFO] Uploading Cover Image
+2025-07-21 17:11:32,525 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-11-32.png
+2025-07-21 17:22:21,975 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:22:23,372 [INFO] Navigating to signup page
+2025-07-21 17:22:28,010 [INFO] Navigated to signup page.
+2025-07-21 17:22:29,135 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:22:29,136 [INFO] Filling signup form
+2025-07-21 17:22:29,136 [INFO] Filling signup form...
+2025-07-21 17:22:29,780 [INFO] Signup page opened
+2025-07-21 17:22:29,940 [INFO] phone number entered
+2025-07-21 17:22:32,495 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:22:32,630 [INFO] Submitted signup form.
+2025-07-21 17:22:32,631 [INFO] Extracting OTP from popup
+2025-07-21 17:22:33,201 [INFO] OTP received: 277011
+2025-07-21 17:22:41,002 [INFO] OTP verified successfully.
+2025-07-21 17:22:41,003 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:22:41,003 [INFO] Filling Basic details
+2025-07-21 17:22:41,003 [INFO] Uploading Cover Image
+2025-07-21 17:22:51,632 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-22-51.png
+2025-07-21 17:27:09,190 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:27:10,499 [INFO] Navigating to signup page
+2025-07-21 17:27:15,047 [INFO] Navigated to signup page.
+2025-07-21 17:27:16,239 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:27:16,239 [INFO] Filling signup form
+2025-07-21 17:27:16,239 [INFO] Filling signup form...
+2025-07-21 17:27:16,886 [INFO] Signup page opened
+2025-07-21 17:27:17,142 [INFO] phone number entered
+2025-07-21 17:27:19,250 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:27:19,426 [INFO] Submitted signup form.
+2025-07-21 17:27:19,426 [INFO] Extracting OTP from popup
+2025-07-21 17:27:20,522 [INFO] OTP received: 919839
+2025-07-21 17:27:27,857 [INFO] OTP verified successfully.
+2025-07-21 17:27:27,858 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:27:27,858 [INFO] Filling Basic details
+2025-07-21 17:27:27,858 [INFO] Uploading Cover Image
+2025-07-21 17:27:38,669 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-27-38.png
+2025-07-21 17:47:02,851 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:47:04,249 [INFO] Navigating to signup page
+2025-07-21 17:47:05,114 [INFO] Navigated to signup page.
+2025-07-21 17:47:11,817 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:47:11,817 [INFO] Filling signup form
+2025-07-21 17:47:11,817 [INFO] Filling signup form...
+2025-07-21 17:47:12,911 [INFO] Signup page opened
+2025-07-21 17:47:13,083 [INFO] phone number entered
+2025-07-21 17:47:15,449 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:47:15,575 [INFO] Submitted signup form.
+2025-07-21 17:47:15,576 [INFO] Extracting OTP from popup
+2025-07-21 17:47:16,685 [INFO] OTP received: 851562
+2025-07-21 17:47:23,886 [INFO] OTP verified successfully.
+2025-07-21 17:47:23,887 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:47:23,887 [INFO] Filling Basic details
+2025-07-21 17:47:23,887 [INFO] Uploading Cover Image
+2025-07-21 17:47:34,359 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-47-34.png
+2025-07-21 17:50:22,307 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:50:23,581 [INFO] Navigating to signup page
+2025-07-21 17:50:28,443 [INFO] Navigated to signup page.
+2025-07-21 17:50:29,860 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:50:29,862 [INFO] Filling signup form
+2025-07-21 17:50:29,862 [INFO] Filling signup form...
+2025-07-21 17:50:30,427 [INFO] Signup page opened
+2025-07-21 17:50:30,614 [INFO] phone number entered
+2025-07-21 17:50:32,437 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:50:32,570 [INFO] Submitted signup form.
+2025-07-21 17:50:32,570 [INFO] Extracting OTP from popup
+2025-07-21 17:50:33,644 [INFO] OTP received: 896223
+2025-07-21 17:50:40,895 [INFO] OTP verified successfully.
+2025-07-21 17:50:40,896 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:50:40,896 [INFO] Filling Basic details
+2025-07-21 17:50:40,896 [INFO] Uploading Cover Image
+2025-07-21 17:50:55,349 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-50-55.png
+2025-07-21 17:53:24,567 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:53:25,816 [INFO] Navigating to signup page
+2025-07-21 17:53:30,336 [INFO] Navigated to signup page.
+2025-07-21 17:53:32,188 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:53:32,189 [INFO] Filling signup form
+2025-07-21 17:53:32,190 [INFO] Filling signup form...
+2025-07-21 17:53:33,795 [INFO] Signup page opened
+2025-07-21 17:53:33,933 [INFO] phone number entered
+2025-07-21 17:53:35,809 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:53:35,945 [INFO] Submitted signup form.
+2025-07-21 17:53:35,945 [INFO] Extracting OTP from popup
+2025-07-21 17:53:37,095 [INFO] OTP received: 644308
+2025-07-21 17:53:44,333 [INFO] OTP verified successfully.
+2025-07-21 17:53:44,333 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:53:44,333 [INFO] Filling Basic details
+2025-07-21 17:53:44,333 [INFO] Uploading Cover Image
+2025-07-21 17:53:55,040 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-53-54.png
+2025-07-21 17:56:25,041 [INFO]  STARTING TEST: test_signup
+2025-07-21 17:56:26,286 [INFO] Navigating to signup page
+2025-07-21 17:56:31,172 [INFO] Navigated to signup page.
+2025-07-21 17:56:32,583 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 17:56:32,584 [INFO] Filling signup form
+2025-07-21 17:56:32,585 [INFO] Filling signup form...
+2025-07-21 17:56:33,157 [INFO] Signup page opened
+2025-07-21 17:56:33,344 [INFO] phone number entered
+2025-07-21 17:56:35,790 [INFO] All validations passed, proceeding with signup.
+2025-07-21 17:56:35,922 [INFO] Submitted signup form.
+2025-07-21 17:56:35,922 [INFO] Extracting OTP from popup
+2025-07-21 17:56:37,027 [INFO] OTP received: 772212
+2025-07-21 17:56:44,295 [INFO] OTP verified successfully.
+2025-07-21 17:56:44,296 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 17:56:44,296 [INFO] Filling Basic details
+2025-07-21 17:56:44,296 [INFO] Uploading Cover Image
+2025-07-21 17:56:55,196 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_17-56-55.png
+2025-07-21 18:02:47,687 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:02:49,055 [INFO] Navigating to signup page
+2025-07-21 18:02:53,802 [INFO] Navigated to signup page.
+2025-07-21 18:02:55,257 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:02:55,258 [INFO] Filling signup form
+2025-07-21 18:02:55,259 [INFO] Filling signup form...
+2025-07-21 18:02:55,836 [INFO] Signup page opened
+2025-07-21 18:02:56,006 [INFO] phone number entered
+2025-07-21 18:02:58,196 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:02:58,311 [INFO] Submitted signup form.
+2025-07-21 18:02:58,311 [INFO] Extracting OTP from popup
+2025-07-21 18:02:59,442 [INFO] OTP received: 665850
+2025-07-21 18:03:06,841 [INFO] OTP verified successfully.
+2025-07-21 18:03:06,841 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:03:06,841 [INFO] Filling Basic details
+2025-07-21 18:03:06,841 [INFO] Uploading Cover Image
+2025-07-21 18:03:17,672 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-03-17.png
+2025-07-21 18:04:30,335 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:04:31,752 [INFO] Navigating to signup page
+2025-07-21 18:04:36,635 [INFO] Navigated to signup page.
+2025-07-21 18:04:38,395 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:04:38,395 [INFO] Filling signup form
+2025-07-21 18:04:38,396 [INFO] Filling signup form...
+2025-07-21 18:04:38,965 [INFO] Signup page opened
+2025-07-21 18:04:39,114 [INFO] phone number entered
+2025-07-21 18:04:41,230 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:04:41,393 [INFO] Submitted signup form.
+2025-07-21 18:04:41,394 [INFO] Extracting OTP from popup
+2025-07-21 18:04:42,567 [INFO] OTP received: 306264
+2025-07-21 18:04:50,185 [INFO] OTP verified successfully.
+2025-07-21 18:04:50,185 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:04:50,186 [INFO] Filling Basic details
+2025-07-21 18:04:50,186 [INFO] Uploading Cover Image
+2025-07-21 18:05:00,048 [INFO] 1
+2025-07-21 18:05:12,777 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-05-12.png
+2025-07-21 18:07:43,711 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:07:45,140 [INFO] Navigating to signup page
+2025-07-21 18:07:50,023 [INFO] Navigated to signup page.
+2025-07-21 18:07:51,389 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:07:51,389 [INFO] Filling signup form
+2025-07-21 18:07:51,389 [INFO] Filling signup form...
+2025-07-21 18:07:51,981 [INFO] Signup page opened
+2025-07-21 18:07:52,133 [INFO] phone number entered
+2025-07-21 18:07:54,457 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:07:54,664 [INFO] Submitted signup form.
+2025-07-21 18:07:54,665 [INFO] Extracting OTP from popup
+2025-07-21 18:07:55,829 [INFO] OTP received: 441140
+2025-07-21 18:08:03,427 [INFO] OTP verified successfully.
+2025-07-21 18:08:03,428 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:08:03,428 [INFO] Filling Basic details
+2025-07-21 18:08:03,428 [INFO] Uploading Cover Image
+2025-07-21 18:08:14,316 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-08-14.png
+2025-07-21 18:08:29,988 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:08:31,315 [INFO] Navigating to signup page
+2025-07-21 18:08:35,914 [INFO] Navigated to signup page.
+2025-07-21 18:08:37,503 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:08:37,503 [INFO] Filling signup form
+2025-07-21 18:08:37,504 [INFO] Filling signup form...
+2025-07-21 18:08:42,373 [INFO] Signup page opened
+2025-07-21 18:08:42,588 [INFO] phone number entered
+2025-07-21 18:08:44,456 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:08:44,608 [INFO] Submitted signup form.
+2025-07-21 18:08:44,609 [INFO] Extracting OTP from popup
+2025-07-21 18:08:45,715 [INFO] OTP received: 281266
+2025-07-21 18:08:52,887 [INFO] OTP verified successfully.
+2025-07-21 18:08:52,888 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:08:52,888 [INFO] Filling Basic details
+2025-07-21 18:08:52,889 [INFO] Uploading Cover Image
+2025-07-21 18:08:52,948 [INFO] 1
+2025-07-21 18:09:05,297 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-09-05.png
+2025-07-21 18:09:11,007 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:09:12,399 [INFO] Navigating to signup page
+2025-07-21 18:09:17,632 [INFO] Navigated to signup page.
+2025-07-21 18:09:19,470 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:09:19,472 [INFO] Filling signup form
+2025-07-21 18:09:19,473 [INFO] Filling signup form...
+2025-07-21 18:09:20,025 [INFO] Signup page opened
+2025-07-21 18:09:20,224 [INFO] phone number entered
+2025-07-21 18:09:22,872 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:09:22,987 [INFO] Submitted signup form.
+2025-07-21 18:09:22,988 [INFO] Extracting OTP from popup
+2025-07-21 18:09:24,108 [INFO] OTP received: 992310
+2025-07-21 18:09:31,470 [INFO] OTP verified successfully.
+2025-07-21 18:09:31,470 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:09:31,470 [INFO] Filling Basic details
+2025-07-21 18:09:31,471 [INFO] Uploading Cover Image
+2025-07-21 18:09:42,521 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-09-42.png
+2025-07-21 18:09:52,481 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:09:53,898 [INFO] Navigating to signup page
+2025-07-21 18:10:04,650 [INFO] Navigated to signup page.
+2025-07-21 18:10:07,412 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:10:07,412 [INFO] Filling signup form
+2025-07-21 18:10:07,412 [INFO] Filling signup form...
+2025-07-21 18:10:07,987 [INFO] Signup page opened
+2025-07-21 18:10:08,167 [INFO] phone number entered
+2025-07-21 18:10:10,178 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:10:10,338 [INFO] Submitted signup form.
+2025-07-21 18:10:10,339 [INFO] Extracting OTP from popup
+2025-07-21 18:10:11,422 [INFO] OTP received: 531241
+2025-07-21 18:10:18,877 [INFO] OTP verified successfully.
+2025-07-21 18:10:18,877 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:10:18,877 [INFO] Filling Basic details
+2025-07-21 18:10:18,877 [INFO] Uploading Cover Image
+2025-07-21 18:10:29,838 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-10-29.png
+2025-07-21 18:11:59,068 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:12:01,081 [INFO] Navigating to signup page
+2025-07-21 18:12:06,487 [INFO] Navigated to signup page.
+2025-07-21 18:12:08,979 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:12:08,980 [INFO] Filling signup form
+2025-07-21 18:12:08,980 [INFO] Filling signup form...
+2025-07-21 18:12:09,545 [INFO] Signup page opened
+2025-07-21 18:12:09,739 [INFO] phone number entered
+2025-07-21 18:12:11,749 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:12:11,900 [INFO] Submitted signup form.
+2025-07-21 18:12:11,901 [INFO] Extracting OTP from popup
+2025-07-21 18:12:13,017 [INFO] OTP received: 560133
+2025-07-21 18:12:20,514 [INFO] OTP verified successfully.
+2025-07-21 18:12:20,514 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:12:20,515 [INFO] Filling Basic details
+2025-07-21 18:12:20,515 [INFO] Uploading Cover Image
+2025-07-21 18:12:31,409 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-12-31.png
+2025-07-21 18:19:46,063 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:19:47,376 [INFO] Navigating to signup page
+2025-07-21 18:19:52,395 [INFO] Navigated to signup page.
+2025-07-21 18:19:53,773 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:19:53,774 [INFO] Filling signup form
+2025-07-21 18:19:53,775 [INFO] Filling signup form...
+2025-07-21 18:19:54,352 [INFO] Signup page opened
+2025-07-21 18:19:54,564 [INFO] phone number entered
+2025-07-21 18:19:57,277 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:19:57,420 [INFO] Submitted signup form.
+2025-07-21 18:19:57,420 [INFO] Extracting OTP from popup
+2025-07-21 18:19:58,542 [INFO] OTP received: 832823
+2025-07-21 18:20:06,007 [INFO] OTP verified successfully.
+2025-07-21 18:20:06,008 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:20:06,008 [INFO] Filling Basic details
+2025-07-21 18:20:06,008 [INFO] Uploading Cover Image
+2025-07-21 18:20:16,812 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-20-16.png
+2025-07-21 18:25:15,638 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:25:16,987 [INFO] Navigating to signup page
+2025-07-21 18:25:21,735 [INFO] Navigated to signup page.
+2025-07-21 18:25:23,927 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:25:23,928 [INFO] Filling signup form
+2025-07-21 18:25:23,928 [INFO] Filling signup form...
+2025-07-21 18:25:24,488 [INFO] Signup page opened
+2025-07-21 18:25:24,672 [INFO] phone number entered
+2025-07-21 18:25:26,751 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:25:26,905 [INFO] Submitted signup form.
+2025-07-21 18:25:26,905 [INFO] Extracting OTP from popup
+2025-07-21 18:25:30,133 [INFO] OTP received: 182309
+2025-07-21 18:25:37,393 [INFO] OTP verified successfully.
+2025-07-21 18:25:37,393 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:25:37,394 [INFO] Filling Basic details
+2025-07-21 18:25:37,394 [INFO] Uploading Cover Image
+2025-07-21 18:25:48,328 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-25-48.png
+2025-07-21 18:26:36,891 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:26:38,262 [INFO] Navigating to signup page
+2025-07-21 18:26:43,145 [INFO] Navigated to signup page.
+2025-07-21 18:26:44,438 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:26:44,438 [INFO] Filling signup form
+2025-07-21 18:26:44,438 [INFO] Filling signup form...
+2025-07-21 18:26:45,055 [INFO] Signup page opened
+2025-07-21 18:26:45,235 [INFO] phone number entered
+2025-07-21 18:26:47,362 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:26:47,525 [INFO] Submitted signup form.
+2025-07-21 18:26:47,525 [INFO] Extracting OTP from popup
+2025-07-21 18:26:48,668 [INFO] OTP received: 914945
+2025-07-21 18:26:56,098 [INFO] OTP verified successfully.
+2025-07-21 18:26:56,099 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:26:56,099 [INFO] Filling Basic details
+2025-07-21 18:26:56,100 [INFO] Uploading Cover Image
+2025-07-21 18:26:56,121 [INFO] 1
+2025-07-21 18:26:56,131 [INFO] 2)
+2025-07-21 18:26:56,153 [INFO] 3
+2025-07-21 18:27:07,040 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-27-06.png
+2025-07-21 18:28:48,721 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:28:50,050 [INFO] Navigating to signup page
+2025-07-21 18:28:54,957 [INFO] Navigated to signup page.
+2025-07-21 18:28:56,473 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:28:56,474 [INFO] Filling signup form
+2025-07-21 18:28:56,474 [INFO] Filling signup form...
+2025-07-21 18:28:57,046 [INFO] Signup page opened
+2025-07-21 18:28:57,263 [INFO] phone number entered
+2025-07-21 18:28:59,383 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:28:59,521 [INFO] Submitted signup form.
+2025-07-21 18:28:59,522 [INFO] Extracting OTP from popup
+2025-07-21 18:29:00,589 [INFO] OTP received: 959263
+2025-07-21 18:29:08,002 [INFO] OTP verified successfully.
+2025-07-21 18:29:08,003 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:29:08,003 [INFO] Filling Basic details
+2025-07-21 18:29:08,004 [INFO] Uploading Cover Image
+2025-07-21 18:29:08,036 [INFO] 1
+2025-07-21 18:29:08,048 [INFO] 2)
+2025-07-21 18:29:08,065 [INFO] 3
+2025-07-21 18:29:19,244 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-29-18.png
+2025-07-21 18:31:34,134 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:31:35,503 [INFO] Navigating to signup page
+2025-07-21 18:31:40,294 [INFO] Navigated to signup page.
+2025-07-21 18:31:42,052 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:31:42,052 [INFO] Filling signup form
+2025-07-21 18:31:42,052 [INFO] Filling signup form...
+2025-07-21 18:31:42,656 [INFO] Signup page opened
+2025-07-21 18:31:42,845 [INFO] phone number entered
+2025-07-21 18:31:45,394 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:31:45,561 [INFO] Submitted signup form.
+2025-07-21 18:31:45,562 [INFO] Extracting OTP from popup
+2025-07-21 18:31:46,715 [INFO] OTP received: 140534
+2025-07-21 18:31:54,363 [INFO] OTP verified successfully.
+2025-07-21 18:31:54,364 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:31:54,364 [INFO] Filling Basic details
+2025-07-21 18:31:54,365 [INFO] Uploading Cover Image
+2025-07-21 18:32:05,301 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-32-05.png
+2025-07-21 18:32:25,902 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:32:27,270 [INFO] Navigating to signup page
+2025-07-21 18:32:32,202 [INFO] Navigated to signup page.
+2025-07-21 18:32:33,984 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:32:33,985 [INFO] Filling signup form
+2025-07-21 18:32:33,985 [INFO] Filling signup form...
+2025-07-21 18:32:34,571 [INFO] Signup page opened
+2025-07-21 18:32:34,764 [INFO] phone number entered
+2025-07-21 18:32:37,184 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:32:37,372 [INFO] Submitted signup form.
+2025-07-21 18:32:37,372 [INFO] Extracting OTP from popup
+2025-07-21 18:32:38,483 [INFO] OTP received: 312531
+2025-07-21 18:32:45,858 [INFO] OTP verified successfully.
+2025-07-21 18:32:45,858 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:32:45,858 [INFO] Filling Basic details
+2025-07-21 18:32:45,858 [INFO] Uploading Cover Image
+2025-07-21 18:33:00,035 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-32-59.png
+2025-07-21 18:34:00,464 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:34:01,785 [INFO] Navigating to signup page
+2025-07-21 18:34:07,747 [INFO] Navigated to signup page.
+2025-07-21 18:34:09,478 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:34:09,478 [INFO] Filling signup form
+2025-07-21 18:34:09,479 [INFO] Filling signup form...
+2025-07-21 18:34:10,096 [INFO] Signup page opened
+2025-07-21 18:34:10,300 [INFO] phone number entered
+2025-07-21 18:34:12,378 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:34:12,527 [INFO] Submitted signup form.
+2025-07-21 18:34:12,528 [INFO] Extracting OTP from popup
+2025-07-21 18:34:13,623 [INFO] OTP received: 321679
+2025-07-21 18:34:21,286 [INFO] OTP verified successfully.
+2025-07-21 18:34:21,287 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:34:21,287 [INFO] Filling Basic details
+2025-07-21 18:34:21,288 [INFO] Uploading Cover Image
+2025-07-21 18:34:35,155 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-34-34.png
+2025-07-21 18:37:26,538 [INFO]  STARTING TEST: test_signup
+2025-07-21 18:37:27,919 [INFO] Navigating to signup page
+2025-07-21 18:37:33,049 [INFO] Navigated to signup page.
+2025-07-21 18:37:34,529 [INFO] Clicked 'Join reelOn' link.
+2025-07-21 18:37:34,529 [INFO] Filling signup form
+2025-07-21 18:37:34,531 [INFO] Filling signup form...
+2025-07-21 18:37:35,095 [INFO] Signup page opened
+2025-07-21 18:37:35,356 [INFO] phone number entered
+2025-07-21 18:37:37,326 [INFO] All validations passed, proceeding with signup.
+2025-07-21 18:37:37,489 [INFO] Submitted signup form.
+2025-07-21 18:37:37,490 [INFO] Extracting OTP from popup
+2025-07-21 18:37:38,578 [INFO] OTP received: 227211
+2025-07-21 18:37:46,191 [INFO] OTP verified successfully.
+2025-07-21 18:37:46,191 [INFO] Entering  gender , cover image and profile image 
+2025-07-21 18:37:46,191 [INFO] Filling Basic details
+2025-07-21 18:37:46,191 [INFO] Uploading Cover Image
+2025-07-21 18:37:49,506 [INFO] Cover image uploaded and saved.
+2025-07-21 18:37:52,510 [INFO] Uploading Profile Image
+2025-07-21 18:38:03,915 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-21_18-38-03.png
+2025-07-22 10:37:21,029 [INFO]  STARTING TEST: test_signup
+2025-07-22 10:37:23,216 [INFO] Navigating to signup page
+2025-07-22 10:37:30,143 [INFO] Navigated to signup page.
+2025-07-22 10:37:31,800 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 10:37:31,801 [INFO] Filling signup form
+2025-07-22 10:37:31,801 [INFO] Filling signup form...
+2025-07-22 10:37:32,373 [INFO] Signup page opened
+2025-07-22 10:37:32,581 [INFO] phone number entered
+2025-07-22 10:37:34,775 [INFO] All validations passed, proceeding with signup.
+2025-07-22 10:37:34,982 [INFO] Submitted signup form.
+2025-07-22 10:37:34,983 [INFO] Extracting OTP from popup
+2025-07-22 10:37:36,150 [INFO] OTP received: 191081
+2025-07-22 10:37:43,907 [INFO] OTP verified successfully.
+2025-07-22 10:37:43,908 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 10:37:43,908 [INFO] Filling Basic details
+2025-07-22 10:37:43,908 [INFO] Uploading Cover Image
+2025-07-22 10:37:47,253 [INFO] Cover image uploaded and saved.
+2025-07-22 10:37:50,253 [INFO] Uploading Profile Image
+2025-07-22 10:38:01,335 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_10-38-01.png
+2025-07-22 10:40:18,383 [INFO]  STARTING TEST: test_signup
+2025-07-22 10:40:19,955 [INFO] Navigating to signup page
+2025-07-22 10:40:25,375 [INFO] Navigated to signup page.
+2025-07-22 10:40:27,010 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 10:40:27,011 [INFO] Filling signup form
+2025-07-22 10:40:27,011 [INFO] Filling signup form...
+2025-07-22 10:40:28,137 [INFO] Signup page opened
+2025-07-22 10:40:28,399 [INFO] phone number entered
+2025-07-22 10:40:30,690 [INFO] All validations passed, proceeding with signup.
+2025-07-22 10:40:30,936 [INFO] Submitted signup form.
+2025-07-22 10:40:30,936 [INFO] Extracting OTP from popup
+2025-07-22 10:40:32,052 [INFO] OTP received: 263585
+2025-07-22 10:40:50,513 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_10-40-50.png
+2025-07-22 10:41:37,203 [INFO]  STARTING TEST: test_signup
+2025-07-22 10:41:38,736 [INFO] Navigating to signup page
+2025-07-22 10:41:47,439 [INFO] Navigated to signup page.
+2025-07-22 10:41:49,038 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 10:41:49,038 [INFO] Filling signup form
+2025-07-22 10:41:49,038 [INFO] Filling signup form...
+2025-07-22 10:41:49,627 [INFO] Signup page opened
+2025-07-22 10:41:49,759 [INFO] phone number entered
+2025-07-22 10:41:52,063 [INFO] All validations passed, proceeding with signup.
+2025-07-22 10:41:52,328 [INFO] Submitted signup form.
+2025-07-22 10:41:52,329 [INFO] Extracting OTP from popup
+2025-07-22 10:41:53,498 [INFO] OTP received: 519228
+2025-07-22 10:42:11,862 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_10-42-11.png
+2025-07-22 13:16:25,616 [INFO]  STARTING TEST: test_signup
+2025-07-22 13:16:27,615 [INFO] Navigating to signup page
+2025-07-22 13:16:32,949 [INFO] Navigated to signup page.
+2025-07-22 13:16:34,761 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 13:16:34,762 [INFO] Filling signup form
+2025-07-22 13:16:34,762 [INFO] Filling signup form...
+2025-07-22 13:16:35,349 [INFO] Signup page opened
+2025-07-22 13:16:35,534 [INFO] phone number entered
+2025-07-22 13:16:38,026 [INFO] All validations passed, proceeding with signup.
+2025-07-22 13:16:38,134 [INFO] Submitted signup form.
+2025-07-22 13:16:38,135 [INFO] Extracting OTP from popup
+2025-07-22 13:16:39,221 [INFO] OTP received: 800028
+2025-07-22 15:01:01,058 [INFO]  STARTING TEST: test_signup
+2025-07-22 15:01:03,191 [INFO] Navigating to signup page
+2025-07-22 15:01:08,083 [INFO] Navigated to signup page.
+2025-07-22 15:01:09,808 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 15:01:09,809 [INFO] Filling signup form
+2025-07-22 15:01:09,809 [INFO] Filling signup form...
+2025-07-22 15:01:10,454 [INFO] Signup page opened
+2025-07-22 15:01:10,651 [INFO] phone number entered
+2025-07-22 15:01:12,667 [INFO] All validations passed, proceeding with signup.
+2025-07-22 15:01:12,895 [INFO] Submitted signup form.
+2025-07-22 15:01:12,896 [INFO] Extracting OTP from popup
+2025-07-22 15:01:14,039 [INFO] OTP received: 797561
+2025-07-22 15:01:44,002 [INFO]  STARTING TEST: test_login
+2025-07-22 15:01:45,359 [INFO] Navigating to login page
+2025-07-22 15:01:51,363 [INFO] Entering mobile number
+2025-07-22 15:01:53,568 [INFO]  Screenshot saved to screenshots/test_login_2025-07-22_15-01-53.png
+2025-07-22 15:11:53,122 [INFO]  STARTING TEST: test_login
+2025-07-22 15:11:54,491 [INFO] Navigating to login page
+2025-07-22 15:12:00,873 [INFO] Entering mobile number
+2025-07-22 15:12:02,729 [INFO]  Screenshot saved to screenshots/test_login_2025-07-22_15-12-02.png
+2025-07-22 15:12:27,953 [INFO]  STARTING TEST: test_login
+2025-07-22 15:12:29,347 [INFO] Navigating to login page
+2025-07-22 15:12:35,357 [INFO] Entering mobile number
+2025-07-22 15:12:38,324 [INFO] Entering OTP
+2025-07-22 16:49:15,952 [INFO]  STARTING TEST: test_signup
+2025-07-22 16:49:18,357 [INFO] Navigating to signup page
+2025-07-22 16:49:23,150 [INFO] Navigated to signup page.
+2025-07-22 16:49:24,866 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 16:49:24,867 [INFO] Filling signup form
+2025-07-22 16:49:24,867 [INFO] Filling signup form...
+2025-07-22 16:49:25,479 [INFO] Signup page opened
+2025-07-22 16:49:25,707 [INFO] phone number entered
+2025-07-22 16:49:27,990 [INFO] All validations passed, proceeding with signup.
+2025-07-22 16:49:28,214 [INFO] Submitted signup form.
+2025-07-22 16:49:28,214 [INFO] Extracting OTP from popup
+2025-07-22 16:49:29,377 [INFO] OTP received: 422860
+2025-07-22 16:49:37,362 [INFO] OTP verified successfully.
+2025-07-22 16:49:37,362 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 16:49:37,362 [INFO] Filling Basic details
+2025-07-22 16:49:37,362 [INFO] Uploading Cover Image
+2025-07-22 16:49:40,735 [INFO] Cover image uploaded and saved.
+2025-07-22 16:49:43,740 [INFO] Uploading Profile Image
+2025-07-22 16:49:57,686 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_16-49-57.png
+2025-07-22 17:28:51,487 [INFO]  STARTING TEST: test_signup
+2025-07-22 17:28:53,363 [INFO] Navigating to signup page
+2025-07-22 17:28:58,018 [INFO] Navigated to signup page.
+2025-07-22 17:28:59,378 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 17:28:59,379 [INFO] Filling signup form
+2025-07-22 17:28:59,379 [INFO] Filling signup form...
+2025-07-22 17:28:59,993 [INFO] Signup page opened
+2025-07-22 17:29:00,308 [INFO] phone number entered
+2025-07-22 17:29:03,080 [INFO] All validations passed, proceeding with signup.
+2025-07-22 17:29:03,252 [INFO] Submitted signup form.
+2025-07-22 17:29:03,253 [INFO] Extracting OTP from popup
+2025-07-22 17:29:04,336 [INFO] OTP received: 290978
+2025-07-22 17:29:11,987 [INFO] OTP verified successfully.
+2025-07-22 17:29:11,988 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 17:29:11,988 [INFO] Filling Basic details
+2025-07-22 17:29:11,989 [INFO] Uploading Cover Image
+2025-07-22 17:29:15,261 [INFO] Cover image uploaded and saved.
+2025-07-22 17:29:18,262 [INFO] Uploading Profile Image
+2025-07-22 17:29:32,306 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_17-29-32.png
+2025-07-22 19:21:55,293 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:21:57,569 [INFO] Navigating to signup page
+2025-07-22 19:22:02,713 [INFO] Navigated to signup page.
+2025-07-22 19:22:03,952 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:22:03,953 [INFO] Filling signup form
+2025-07-22 19:22:03,953 [INFO] Filling signup form...
+2025-07-22 19:22:04,595 [INFO] Signup page opened
+2025-07-22 19:22:04,794 [INFO] phone number entered
+2025-07-22 19:22:07,544 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:22:07,734 [INFO] Submitted signup form.
+2025-07-22 19:22:07,735 [INFO] Extracting OTP from popup
+2025-07-22 19:22:08,857 [INFO] OTP received: 865153
+2025-07-22 19:22:16,348 [INFO] OTP verified successfully.
+2025-07-22 19:22:16,349 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:22:16,349 [INFO] Filling Basic details
+2025-07-22 19:22:16,349 [INFO] Uploading Cover Image
+2025-07-22 19:22:19,706 [INFO] Cover image uploaded and saved.
+2025-07-22 19:22:22,707 [INFO] Uploading Profile Image
+2025-07-22 19:22:38,532 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-22-38.png
+2025-07-22 19:27:12,856 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:27:14,295 [INFO] Navigating to signup page
+2025-07-22 19:27:19,856 [INFO] Navigated to signup page.
+2025-07-22 19:27:21,302 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:27:21,303 [INFO] Filling signup form
+2025-07-22 19:27:21,303 [INFO] Filling signup form...
+2025-07-22 19:27:21,874 [INFO] Signup page opened
+2025-07-22 19:27:22,072 [INFO] phone number entered
+2025-07-22 19:27:24,206 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:27:24,371 [INFO] Submitted signup form.
+2025-07-22 19:27:24,372 [INFO] Extracting OTP from popup
+2025-07-22 19:27:25,486 [INFO] OTP received: 549241
+2025-07-22 19:27:33,338 [INFO] OTP verified successfully.
+2025-07-22 19:27:33,338 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:27:33,339 [INFO] Filling Basic details
+2025-07-22 19:27:33,339 [INFO] Uploading Cover Image
+2025-07-22 19:27:36,663 [INFO] Cover image uploaded and saved.
+2025-07-22 19:27:39,664 [INFO] Uploading Profile Image
+2025-07-22 19:27:55,746 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-27-55.png
+2025-07-22 19:31:49,578 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:31:51,081 [INFO] Navigating to signup page
+2025-07-22 19:31:56,557 [INFO] Navigated to signup page.
+2025-07-22 19:31:57,904 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:31:57,905 [INFO] Filling signup form
+2025-07-22 19:31:57,905 [INFO] Filling signup form...
+2025-07-22 19:31:58,480 [INFO] Signup page opened
+2025-07-22 19:31:58,700 [INFO] phone number entered
+2025-07-22 19:32:00,877 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:32:01,087 [INFO] Submitted signup form.
+2025-07-22 19:32:01,087 [INFO] Extracting OTP from popup
+2025-07-22 19:32:02,217 [INFO] OTP received: 965776
+2025-07-22 19:32:09,732 [INFO] OTP verified successfully.
+2025-07-22 19:32:09,732 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:32:09,732 [INFO] Filling Basic details
+2025-07-22 19:32:09,733 [INFO] Uploading Cover Image
+2025-07-22 19:32:13,115 [INFO] Cover image uploaded and saved.
+2025-07-22 19:32:16,116 [INFO] Uploading Profile Image
+2025-07-22 19:32:32,397 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-32-31.png
+2025-07-22 19:34:32,676 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:34:34,245 [INFO] Navigating to signup page
+2025-07-22 19:34:46,944 [INFO] Navigated to signup page.
+2025-07-22 19:34:48,717 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:34:48,717 [INFO] Filling signup form
+2025-07-22 19:34:48,717 [INFO] Filling signup form...
+2025-07-22 19:34:49,324 [INFO] Signup page opened
+2025-07-22 19:34:49,515 [INFO] phone number entered
+2025-07-22 19:34:51,639 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:34:51,830 [INFO] Submitted signup form.
+2025-07-22 19:34:51,830 [INFO] Extracting OTP from popup
+2025-07-22 19:34:53,469 [INFO] OTP received: 545775
+2025-07-22 19:35:00,997 [INFO] OTP verified successfully.
+2025-07-22 19:35:00,998 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:35:00,998 [INFO] Filling Basic details
+2025-07-22 19:35:00,998 [INFO] Uploading Cover Image
+2025-07-22 19:35:04,436 [INFO] Cover image uploaded and saved.
+2025-07-22 19:35:07,437 [INFO] Uploading Profile Image
+2025-07-22 19:35:23,301 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-35-23.png
+2025-07-22 19:37:12,517 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:37:14,012 [INFO] Navigating to signup page
+2025-07-22 19:37:20,019 [INFO] Navigated to signup page.
+2025-07-22 19:37:21,441 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:37:21,441 [INFO] Filling signup form
+2025-07-22 19:37:21,442 [INFO] Filling signup form...
+2025-07-22 19:37:22,026 [INFO] Signup page opened
+2025-07-22 19:37:22,224 [INFO] phone number entered
+2025-07-22 19:37:33,668 [WARNING] Resolve the errors and try again.
+2025-07-22 19:37:34,012 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-37-33.png
+2025-07-22 19:37:47,209 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:37:48,725 [INFO] Navigating to signup page
+2025-07-22 19:37:54,516 [INFO] Navigated to signup page.
+2025-07-22 19:37:56,002 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:37:56,002 [INFO] Filling signup form
+2025-07-22 19:37:56,003 [INFO] Filling signup form...
+2025-07-22 19:37:56,602 [INFO] Signup page opened
+2025-07-22 19:37:56,852 [INFO] phone number entered
+2025-07-22 19:37:59,564 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:37:59,701 [INFO] Submitted signup form.
+2025-07-22 19:37:59,701 [INFO] Extracting OTP from popup
+2025-07-22 19:38:00,836 [INFO] OTP received: 180646
+2025-07-22 19:38:08,269 [INFO] OTP verified successfully.
+2025-07-22 19:38:08,269 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:38:08,269 [INFO] Filling Basic details
+2025-07-22 19:38:08,270 [INFO] Uploading Cover Image
+2025-07-22 19:38:11,553 [INFO] Cover image uploaded and saved.
+2025-07-22 19:38:14,554 [INFO] Uploading Profile Image
+2025-07-22 19:38:30,772 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-38-30.png
+2025-07-22 19:43:17,972 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:43:19,420 [INFO] Navigating to signup page
+2025-07-22 19:43:24,824 [INFO] Navigated to signup page.
+2025-07-22 19:43:26,352 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:43:26,352 [INFO] Filling signup form
+2025-07-22 19:43:26,352 [INFO] Filling signup form...
+2025-07-22 19:43:26,938 [INFO] Signup page opened
+2025-07-22 19:43:27,150 [INFO] phone number entered
+2025-07-22 19:43:29,265 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:43:29,447 [INFO] Submitted signup form.
+2025-07-22 19:43:29,447 [INFO] Extracting OTP from popup
+2025-07-22 19:43:30,596 [INFO] OTP received: 625553
+2025-07-22 19:43:38,294 [INFO] OTP verified successfully.
+2025-07-22 19:43:38,294 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:43:38,295 [INFO] Filling Basic details
+2025-07-22 19:43:38,295 [INFO] Uploading Cover Image
+2025-07-22 19:43:41,598 [INFO] Cover image uploaded and saved.
+2025-07-22 19:43:44,600 [INFO] Uploading Profile Image
+2025-07-22 19:44:00,798 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-44-00.png
+2025-07-22 19:46:43,795 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:46:45,300 [INFO] Navigating to signup page
+2025-07-22 19:46:50,497 [INFO] Navigated to signup page.
+2025-07-22 19:46:51,944 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:46:51,944 [INFO] Filling signup form
+2025-07-22 19:46:51,944 [INFO] Filling signup form...
+2025-07-22 19:46:52,589 [INFO] Signup page opened
+2025-07-22 19:46:52,791 [INFO] phone number entered
+2025-07-22 19:46:55,147 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:46:55,376 [INFO] Submitted signup form.
+2025-07-22 19:46:55,377 [INFO] Extracting OTP from popup
+2025-07-22 19:46:56,555 [INFO] OTP received: 940207
+2025-07-22 19:47:04,455 [INFO] OTP verified successfully.
+2025-07-22 19:47:04,456 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:47:04,456 [INFO] Filling Basic details
+2025-07-22 19:47:04,457 [INFO] Uploading Cover Image
+2025-07-22 19:47:07,840 [INFO] Cover image uploaded and saved.
+2025-07-22 19:47:10,841 [INFO] Uploading Profile Image
+2025-07-22 19:47:11,666 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-47-11.png
+2025-07-22 19:54:32,523 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:54:34,230 [INFO] Navigating to signup page
+2025-07-22 19:54:41,800 [INFO] Navigated to signup page.
+2025-07-22 19:54:43,428 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:54:43,429 [INFO] Filling signup form
+2025-07-22 19:54:43,429 [INFO] Filling signup form...
+2025-07-22 19:54:44,129 [INFO] Signup page opened
+2025-07-22 19:54:44,354 [INFO] phone number entered
+2025-07-22 19:54:46,956 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:54:47,129 [INFO] Submitted signup form.
+2025-07-22 19:54:47,130 [INFO] Extracting OTP from popup
+2025-07-22 19:54:48,847 [INFO] OTP received: 822427
+2025-07-22 19:54:56,612 [INFO] OTP verified successfully.
+2025-07-22 19:54:56,613 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:54:56,613 [INFO] Filling Basic details
+2025-07-22 19:54:56,614 [INFO] Uploading Cover Image
+2025-07-22 19:54:59,919 [INFO] Cover image uploaded and saved.
+2025-07-22 19:55:02,921 [INFO] Uploading Profile Image
+2025-07-22 19:55:19,270 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-55-18.png
+2025-07-22 19:56:19,692 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:56:21,518 [INFO] Navigating to signup page
+2025-07-22 19:56:33,191 [INFO] Navigated to signup page.
+2025-07-22 19:56:34,582 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:56:34,583 [INFO] Filling signup form
+2025-07-22 19:56:34,584 [INFO] Filling signup form...
+2025-07-22 19:56:35,216 [INFO] Signup page opened
+2025-07-22 19:56:35,466 [INFO] phone number entered
+2025-07-22 19:56:38,385 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:56:38,594 [INFO] Submitted signup form.
+2025-07-22 19:56:38,594 [INFO] Extracting OTP from popup
+2025-07-22 19:56:39,722 [INFO] OTP received: 651020
+2025-07-22 19:56:47,541 [INFO] OTP verified successfully.
+2025-07-22 19:56:47,541 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:56:47,542 [INFO] Filling Basic details
+2025-07-22 19:56:47,542 [INFO] Uploading Cover Image
+2025-07-22 19:56:50,838 [INFO] Cover image uploaded and saved.
+2025-07-22 19:56:53,840 [INFO] Uploading Profile Image
+2025-07-22 19:57:14,077 [INFO] Clicking Save button...
+2025-07-22 19:57:14,098 [INFO] Profile image uploaded and saved.
+2025-07-22 19:57:17,898 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-57-17.png
+2025-07-22 19:57:36,436 [INFO]  STARTING TEST: test_signup
+2025-07-22 19:57:38,295 [INFO] Navigating to signup page
+2025-07-22 19:57:44,685 [INFO] Navigated to signup page.
+2025-07-22 19:57:46,132 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 19:57:46,133 [INFO] Filling signup form
+2025-07-22 19:57:46,134 [INFO] Filling signup form...
+2025-07-22 19:57:46,740 [INFO] Signup page opened
+2025-07-22 19:57:47,032 [INFO] phone number entered
+2025-07-22 19:57:49,530 [INFO] All validations passed, proceeding with signup.
+2025-07-22 19:57:49,791 [INFO] Submitted signup form.
+2025-07-22 19:57:49,791 [INFO] Extracting OTP from popup
+2025-07-22 19:57:50,930 [INFO] OTP received: 132899
+2025-07-22 19:57:59,154 [INFO] OTP verified successfully.
+2025-07-22 19:57:59,154 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 19:57:59,155 [INFO] Filling Basic details
+2025-07-22 19:57:59,155 [INFO] Uploading Cover Image
+2025-07-22 19:58:02,641 [INFO] Cover image uploaded and saved.
+2025-07-22 19:58:05,642 [INFO] Uploading Profile Image
+2025-07-22 19:58:26,042 [INFO] Clicking Save button...
+2025-07-22 19:58:26,061 [INFO] Profile image uploaded and saved.
+2025-07-22 19:58:29,786 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_19-58-29.png
+2025-07-22 20:04:10,331 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:04:12,069 [INFO] Navigating to signup page
+2025-07-22 20:04:17,311 [INFO] Navigated to signup page.
+2025-07-22 20:04:19,137 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:04:19,137 [INFO] Filling signup form
+2025-07-22 20:04:19,138 [INFO] Filling signup form...
+2025-07-22 20:04:20,311 [INFO] Signup page opened
+2025-07-22 20:04:20,579 [INFO] phone number entered
+2025-07-22 20:04:23,032 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:04:23,211 [INFO] Submitted signup form.
+2025-07-22 20:04:23,211 [INFO] Extracting OTP from popup
+2025-07-22 20:04:24,948 [INFO] OTP received: 478017
+2025-07-22 20:04:32,688 [INFO] OTP verified successfully.
+2025-07-22 20:04:32,689 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:04:32,690 [INFO] Filling Basic details
+2025-07-22 20:04:32,691 [INFO] Uploading Cover Image
+2025-07-22 20:04:36,068 [INFO] Cover image uploaded and saved.
+2025-07-22 20:04:39,068 [INFO] Uploading Profile Image
+2025-07-22 20:05:00,484 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-04-59.png
+2025-07-22 20:05:07,976 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:05:09,907 [INFO] Navigating to signup page
+2025-07-22 20:05:15,190 [INFO] Navigated to signup page.
+2025-07-22 20:05:16,844 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:05:16,845 [INFO] Filling signup form
+2025-07-22 20:05:16,845 [INFO] Filling signup form...
+2025-07-22 20:05:17,545 [INFO] Signup page opened
+2025-07-22 20:05:17,774 [INFO] phone number entered
+2025-07-22 20:05:20,568 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:05:20,876 [INFO] Submitted signup form.
+2025-07-22 20:05:20,877 [INFO] Extracting OTP from popup
+2025-07-22 20:05:22,039 [INFO] OTP received: 208312
+2025-07-22 20:05:30,201 [INFO] OTP verified successfully.
+2025-07-22 20:05:30,202 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:05:30,203 [INFO] Filling Basic details
+2025-07-22 20:05:30,203 [INFO] Uploading Cover Image
+2025-07-22 20:05:33,640 [INFO] Cover image uploaded and saved.
+2025-07-22 20:05:36,641 [INFO] Uploading Profile Image
+2025-07-22 20:05:51,978 [INFO] Clicking Save button...
+2025-07-22 20:05:51,996 [INFO] Profile image uploaded and saved.
+2025-07-22 20:05:55,632 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-05-55.png
+2025-07-22 20:10:43,074 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:10:44,795 [INFO] Navigating to signup page
+2025-07-22 20:10:50,387 [INFO] Navigated to signup page.
+2025-07-22 20:10:52,109 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:10:52,109 [INFO] Filling signup form
+2025-07-22 20:10:52,110 [INFO] Filling signup form...
+2025-07-22 20:10:52,707 [INFO] Signup page opened
+2025-07-22 20:10:52,988 [INFO] phone number entered
+2025-07-22 20:10:55,358 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:10:55,564 [INFO] Submitted signup form.
+2025-07-22 20:10:55,564 [INFO] Extracting OTP from popup
+2025-07-22 20:10:57,295 [INFO] OTP received: 906871
+2025-07-22 20:11:04,984 [INFO] OTP verified successfully.
+2025-07-22 20:11:04,985 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:11:04,985 [INFO] Filling Basic details
+2025-07-22 20:11:04,986 [INFO] Uploading Cover Image
+2025-07-22 20:11:08,408 [INFO] Cover image uploaded and saved.
+2025-07-22 20:11:11,409 [INFO] Uploading Profile Image
+2025-07-22 20:11:26,807 [INFO] Clicking Save button...
+2025-07-22 20:11:26,822 [INFO] Profile image uploaded and saved.
+2025-07-22 20:11:30,139 [INFO] Gender selected.
+2025-07-22 20:11:30,140 [INFO] Selecting title and location
+2025-07-22 20:11:30,140 [INFO] Entering title and location...
+2025-07-22 20:11:32,401 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-11-32.png
+2025-07-22 20:13:49,060 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:13:50,948 [INFO] Navigating to signup page
+2025-07-22 20:13:58,019 [INFO] Navigated to signup page.
+2025-07-22 20:13:59,422 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:13:59,423 [INFO] Filling signup form
+2025-07-22 20:13:59,423 [INFO] Filling signup form...
+2025-07-22 20:14:00,630 [INFO] Signup page opened
+2025-07-22 20:14:00,925 [INFO] phone number entered
+2025-07-22 20:14:03,140 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:14:03,333 [INFO] Submitted signup form.
+2025-07-22 20:14:03,333 [INFO] Extracting OTP from popup
+2025-07-22 20:14:04,464 [INFO] OTP received: 700966
+2025-07-22 20:14:11,912 [INFO] OTP verified successfully.
+2025-07-22 20:14:11,913 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:14:11,913 [INFO] Filling Basic details
+2025-07-22 20:14:11,913 [INFO] Uploading Cover Image
+2025-07-22 20:14:15,371 [INFO] Cover image uploaded and saved.
+2025-07-22 20:14:18,372 [INFO] Uploading Profile Image
+2025-07-22 20:14:45,156 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-14-44.png
+2025-07-22 20:15:16,050 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:15:17,715 [INFO] Navigating to signup page
+2025-07-22 20:15:26,018 [INFO] Navigated to signup page.
+2025-07-22 20:15:27,961 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:15:27,961 [INFO] Filling signup form
+2025-07-22 20:15:27,962 [INFO] Filling signup form...
+2025-07-22 20:15:29,118 [INFO] Signup page opened
+2025-07-22 20:15:29,373 [INFO] phone number entered
+2025-07-22 20:15:31,690 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:15:31,954 [INFO] Submitted signup form.
+2025-07-22 20:15:31,955 [INFO] Extracting OTP from popup
+2025-07-22 20:15:34,177 [INFO] OTP received: 902693
+2025-07-22 20:15:41,124 [INFO] OTP verified successfully.
+2025-07-22 20:15:41,125 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:15:41,125 [INFO] Filling Basic details
+2025-07-22 20:15:41,125 [INFO] Uploading Cover Image
+2025-07-22 20:15:44,443 [INFO] Cover image uploaded and saved.
+2025-07-22 20:15:54,445 [INFO] Uploading Profile Image
+2025-07-22 20:16:09,704 [INFO] Clicking Save button...
+2025-07-22 20:16:09,719 [INFO] Profile image uploaded and saved.
+2025-07-22 20:16:12,952 [INFO] Gender selected.
+2025-07-22 20:16:12,953 [INFO] Selecting title and location
+2025-07-22 20:16:12,954 [INFO] Entering title and location...
+2025-07-22 20:16:13,647 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-16-13.png
+2025-07-22 20:24:54,819 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:24:57,531 [INFO] Navigating to signup page
+2025-07-22 20:25:02,817 [INFO] Navigated to signup page.
+2025-07-22 20:25:04,272 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:25:04,272 [INFO] Filling signup form
+2025-07-22 20:25:04,273 [INFO] Filling signup form...
+2025-07-22 20:25:04,878 [INFO] Signup page opened
+2025-07-22 20:25:05,091 [INFO] phone number entered
+2025-07-22 20:25:08,002 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:25:08,165 [INFO] Submitted signup form.
+2025-07-22 20:25:08,166 [INFO] Extracting OTP from popup
+2025-07-22 20:25:09,277 [INFO] OTP received: 921033
+2025-07-22 20:25:16,864 [INFO] OTP verified successfully.
+2025-07-22 20:25:16,864 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:25:16,865 [INFO] Filling Basic details
+2025-07-22 20:25:16,865 [INFO] Uploading Cover Image
+2025-07-22 20:25:20,280 [INFO] Cover image uploaded and saved.
+2025-07-22 20:25:30,282 [INFO] Uploading Profile Image
+2025-07-22 20:25:45,611 [INFO] Clicking Save button...
+2025-07-22 20:25:45,626 [INFO] Profile image uploaded and saved.
+2025-07-22 20:25:48,936 [INFO] Gender selected.
+2025-07-22 20:25:48,936 [INFO] Selecting title and location
+2025-07-22 20:25:48,936 [INFO] Entering title and location...
+2025-07-22 20:25:51,162 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-25-50.png
+2025-07-22 20:29:46,145 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:29:47,813 [INFO] Navigating to signup page
+2025-07-22 20:29:50,106 [INFO] Navigated to signup page.
+2025-07-22 20:29:56,975 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:29:56,976 [INFO] Filling signup form
+2025-07-22 20:29:56,976 [INFO] Filling signup form...
+2025-07-22 20:29:57,618 [INFO] Signup page opened
+2025-07-22 20:29:57,840 [INFO] phone number entered
+2025-07-22 20:30:00,677 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:30:00,899 [INFO] Submitted signup form.
+2025-07-22 20:30:00,900 [INFO] Extracting OTP from popup
+2025-07-22 20:30:02,022 [INFO] OTP received: 275031
+2025-07-22 20:30:09,370 [INFO] OTP verified successfully.
+2025-07-22 20:30:09,370 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:30:09,371 [INFO] Filling Basic details
+2025-07-22 20:30:09,371 [INFO] Uploading Cover Image
+2025-07-22 20:30:12,698 [INFO] Cover image uploaded and saved.
+2025-07-22 20:30:22,700 [INFO] Uploading Profile Image
+2025-07-22 20:30:37,910 [INFO] Clicking Save button...
+2025-07-22 20:30:37,928 [INFO] Profile image uploaded and saved.
+2025-07-22 20:30:41,209 [INFO] Gender selected.
+2025-07-22 20:30:41,210 [INFO] Selecting title and location
+2025-07-22 20:30:41,210 [INFO] Entering title and location...
+2025-07-22 20:30:41,479 [INFO] titles entered
+2025-07-22 20:30:48,464 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-30-48.png
+2025-07-22 20:35:01,794 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:35:03,620 [INFO] Navigating to signup page
+2025-07-22 20:35:09,373 [INFO] Navigated to signup page.
+2025-07-22 20:35:11,124 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:35:11,125 [INFO] Filling signup form
+2025-07-22 20:35:11,125 [INFO] Filling signup form...
+2025-07-22 20:35:11,789 [INFO] Signup page opened
+2025-07-22 20:35:11,999 [INFO] phone number entered
+2025-07-22 20:35:14,721 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:35:14,885 [INFO] Submitted signup form.
+2025-07-22 20:35:14,885 [INFO] Extracting OTP from popup
+2025-07-22 20:35:16,001 [INFO] OTP received: 801234
+2025-07-22 20:35:23,748 [INFO] OTP verified successfully.
+2025-07-22 20:35:23,749 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:35:23,749 [INFO] Filling Basic details
+2025-07-22 20:35:23,749 [INFO] Uploading Cover Image
+2025-07-22 20:35:27,137 [INFO] Cover image uploaded and saved.
+2025-07-22 20:35:37,138 [INFO] Uploading Profile Image
+2025-07-22 20:35:52,341 [INFO] Clicking Save button...
+2025-07-22 20:35:52,357 [INFO] Profile image uploaded and saved.
+2025-07-22 20:35:55,553 [INFO] Gender selected.
+2025-07-22 20:35:55,553 [INFO] Selecting title and location
+2025-07-22 20:35:55,553 [INFO] Entering title and location...
+2025-07-22 20:35:55,821 [INFO] titles entered
+2025-07-22 20:36:04,086 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-36-03.png
+2025-07-22 20:37:30,238 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:37:32,002 [INFO] Navigating to signup page
+2025-07-22 20:37:37,585 [INFO] Navigated to signup page.
+2025-07-22 20:37:39,152 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:37:39,152 [INFO] Filling signup form
+2025-07-22 20:37:39,152 [INFO] Filling signup form...
+2025-07-22 20:37:39,782 [INFO] Signup page opened
+2025-07-22 20:37:39,995 [INFO] phone number entered
+2025-07-22 20:37:42,253 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:37:42,493 [INFO] Submitted signup form.
+2025-07-22 20:37:42,493 [INFO] Extracting OTP from popup
+2025-07-22 20:37:43,605 [INFO] OTP received: 600973
+2025-07-22 20:37:51,084 [INFO] OTP verified successfully.
+2025-07-22 20:37:51,084 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:37:51,085 [INFO] Filling Basic details
+2025-07-22 20:37:51,085 [INFO] Uploading Cover Image
+2025-07-22 20:37:54,479 [INFO] Cover image uploaded and saved.
+2025-07-22 20:38:04,480 [INFO] Uploading Profile Image
+2025-07-22 20:38:19,723 [INFO] Clicking Save button...
+2025-07-22 20:38:19,740 [INFO] Profile image uploaded and saved.
+2025-07-22 20:38:23,005 [INFO] Gender selected.
+2025-07-22 20:38:23,006 [INFO] Selecting title and location
+2025-07-22 20:38:23,006 [INFO] Entering title and location...
+2025-07-22 20:38:23,406 [INFO] titles entered
+2025-07-22 20:38:29,441 [INFO] scrolled
+2025-07-22 20:38:32,373 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-38-31.png
+2025-07-22 20:43:16,542 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:43:18,364 [INFO] Navigating to signup page
+2025-07-22 20:43:25,835 [INFO] Navigated to signup page.
+2025-07-22 20:43:27,527 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:43:27,528 [INFO] Filling signup form
+2025-07-22 20:43:27,528 [INFO] Filling signup form...
+2025-07-22 20:43:28,154 [INFO] Signup page opened
+2025-07-22 20:43:28,357 [INFO] phone number entered
+2025-07-22 20:43:30,484 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:43:30,699 [INFO] Submitted signup form.
+2025-07-22 20:43:30,700 [INFO] Extracting OTP from popup
+2025-07-22 20:43:31,845 [INFO] OTP received: 892691
+2025-07-22 20:43:39,398 [INFO] OTP verified successfully.
+2025-07-22 20:43:39,399 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:43:39,399 [INFO] Filling Basic details
+2025-07-22 20:43:39,399 [INFO] Uploading Cover Image
+2025-07-22 20:43:42,893 [INFO] Cover image uploaded and saved.
+2025-07-22 20:43:52,894 [INFO] Uploading Profile Image
+2025-07-22 20:44:08,087 [INFO] Clicking Save button...
+2025-07-22 20:44:08,104 [INFO] Profile image uploaded and saved.
+2025-07-22 20:44:11,379 [INFO] Gender selected.
+2025-07-22 20:44:11,380 [INFO] Selecting title and location
+2025-07-22 20:44:11,380 [INFO] Entering title and location...
+2025-07-22 20:44:11,929 [INFO] titles entered
+2025-07-22 20:44:18,001 [INFO] scrolled
+2025-07-22 20:44:33,856 [INFO] location submitted.
+2025-07-22 20:44:33,858 [INFO] Choosing Reelon goals
+2025-07-22 20:44:33,860 [INFO] Choosing user goals...
+2025-07-22 20:44:34,972 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-44-34.png
+2025-07-22 20:47:08,630 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:47:10,489 [INFO] Navigating to signup page
+2025-07-22 20:47:16,075 [INFO] Navigated to signup page.
+2025-07-22 20:47:17,875 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:47:17,876 [INFO] Filling signup form
+2025-07-22 20:47:17,876 [INFO] Filling signup form...
+2025-07-22 20:47:19,129 [INFO] Signup page opened
+2025-07-22 20:47:19,399 [INFO] phone number entered
+2025-07-22 20:47:21,500 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:47:21,746 [INFO] Submitted signup form.
+2025-07-22 20:47:21,747 [INFO] Extracting OTP from popup
+2025-07-22 20:47:22,842 [INFO] OTP received: 248231
+2025-07-22 20:47:30,738 [INFO] OTP verified successfully.
+2025-07-22 20:47:30,738 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:47:30,739 [INFO] Filling Basic details
+2025-07-22 20:47:30,739 [INFO] Uploading Cover Image
+2025-07-22 20:47:34,158 [INFO] Cover image uploaded and saved.
+2025-07-22 20:47:44,160 [INFO] Uploading Profile Image
+2025-07-22 20:47:59,477 [INFO] Clicking Save button...
+2025-07-22 20:47:59,492 [INFO] Profile image uploaded and saved.
+2025-07-22 20:48:02,801 [INFO] Gender selected.
+2025-07-22 20:48:02,801 [INFO] Selecting title and location
+2025-07-22 20:48:02,802 [INFO] Entering title and location...
+2025-07-22 20:48:03,116 [INFO] titles entered
+2025-07-22 20:48:09,179 [INFO] scrolled
+2025-07-22 20:48:25,305 [INFO] location submitted.
+2025-07-22 20:48:25,306 [INFO] Choosing Reelon goals
+2025-07-22 20:48:25,307 [INFO] Choosing user goals...
+2025-07-22 20:48:36,259 [INFO] Goals selected and submitted.
+2025-07-22 20:48:36,262 [INFO] Following stars
+2025-07-22 20:48:36,264 [INFO] Following stars...
+2025-07-22 20:48:38,587 [INFO] Followed star #1
+2025-07-22 20:48:40,262 [INFO] Followed star #2
+2025-07-22 20:48:41,949 [INFO] Followed star #3
+2025-07-22 20:48:43,704 [INFO] Clicked Next after following stars.
+2025-07-22 20:48:46,705 [INFO] Following businesses
+2025-07-22 20:48:46,707 [INFO] Following businesses...
+2025-07-22 20:48:48,909 [INFO] Followed business at index 1
+2025-07-22 20:48:50,602 [INFO] Followed business at index 2
+2025-07-22 20:48:52,284 [INFO] Clicked Next after following businesses.
+2025-07-22 20:48:55,285 [INFO] Connecting with professionals
+2025-07-22 20:48:55,287 [INFO] Connecting with professionals...
+2025-07-22 20:48:57,634 [INFO] Connected with professional at index 1
+2025-07-22 20:48:59,892 [INFO] Connected with professional at index 2
+2025-07-22 20:49:02,127 [INFO] Connected with professional at index 3
+2025-07-22 20:49:04,381 [INFO] Clicked Next after connecting with professionals.
+2025-07-22 20:49:07,382 [INFO] Verifying signup success
+2025-07-22 20:49:07,384 [INFO] Verifying signup success...
+2025-07-22 20:49:09,094 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-49-08.png
+2025-07-22 20:53:36,715 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:53:38,324 [INFO] Navigating to signup page
+2025-07-22 20:53:44,151 [INFO] Navigated to signup page.
+2025-07-22 20:53:45,567 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:53:45,567 [INFO] Filling signup form
+2025-07-22 20:53:45,567 [INFO] Filling signup form...
+2025-07-22 20:53:46,139 [INFO] Signup page opened
+2025-07-22 20:53:46,323 [INFO] phone number entered
+2025-07-22 20:53:48,347 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:53:48,475 [INFO] Submitted signup form.
+2025-07-22 20:53:48,475 [INFO] Extracting OTP from popup
+2025-07-22 20:53:49,553 [INFO] OTP received: 106572
+2025-07-22 20:53:57,056 [INFO] OTP verified successfully.
+2025-07-22 20:53:57,057 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:53:57,058 [INFO] Filling Basic details
+2025-07-22 20:53:57,059 [INFO] Uploading Cover Image
+2025-07-22 20:54:00,403 [INFO] Cover image uploaded and saved.
+2025-07-22 20:54:10,405 [INFO] Uploading Profile Image
+2025-07-22 20:54:25,724 [INFO] Clicking Save button...
+2025-07-22 20:54:25,753 [INFO] Profile image uploaded and saved.
+2025-07-22 20:54:28,981 [INFO] Gender selected.
+2025-07-22 20:54:28,981 [INFO] Selecting title and location
+2025-07-22 20:54:28,981 [INFO] Entering title and location...
+2025-07-22 20:54:29,508 [INFO] titles entered
+2025-07-22 20:54:35,552 [INFO] scrolled
+2025-07-22 20:54:51,647 [INFO] location submitted.
+2025-07-22 20:54:51,649 [INFO] Choosing Reelon goals
+2025-07-22 20:54:51,653 [INFO] Choosing user goals...
+2025-07-22 20:55:02,325 [INFO] Goals selected and submitted.
+2025-07-22 20:55:02,326 [INFO] Following stars
+2025-07-22 20:55:02,328 [INFO] Following stars...
+2025-07-22 20:55:04,540 [INFO] Followed star #1
+2025-07-22 20:55:06,201 [INFO] Followed star #2
+2025-07-22 20:55:07,863 [INFO] Followed star #3
+2025-07-22 20:55:09,537 [INFO] Clicked Next after following stars.
+2025-07-22 20:55:12,538 [INFO] Following businesses
+2025-07-22 20:55:12,539 [INFO] Following businesses...
+2025-07-22 20:55:14,719 [INFO] Followed business at index 1
+2025-07-22 20:55:16,401 [INFO] Followed business at index 2
+2025-07-22 20:55:18,060 [INFO] Clicked Next after following businesses.
+2025-07-22 20:55:21,061 [INFO] Connecting with professionals
+2025-07-22 20:55:21,063 [INFO] Connecting with professionals...
+2025-07-22 20:55:23,268 [INFO] Connected with professional at index 1
+2025-07-22 20:55:26,052 [INFO] Connected with professional at index 2
+2025-07-22 20:55:28,231 [INFO] Connected with professional at index 3
+2025-07-22 20:55:30,380 [INFO] Clicked Next after connecting with professionals.
+2025-07-22 20:55:33,381 [INFO] Verifying signup success
+2025-07-22 20:55:33,382 [INFO] Verifying signup success...
+2025-07-22 20:55:34,389 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-55-34.png
+2025-07-22 20:57:44,155 [INFO]  STARTING TEST: test_signup
+2025-07-22 20:57:45,599 [INFO] Navigating to signup page
+2025-07-22 20:57:50,352 [INFO] Navigated to signup page.
+2025-07-22 20:57:51,468 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 20:57:51,469 [INFO] Filling signup form
+2025-07-22 20:57:51,470 [INFO] Filling signup form...
+2025-07-22 20:57:52,078 [INFO] Signup page opened
+2025-07-22 20:57:52,332 [INFO] phone number entered
+2025-07-22 20:57:54,719 [INFO] All validations passed, proceeding with signup.
+2025-07-22 20:57:55,000 [INFO] Submitted signup form.
+2025-07-22 20:57:55,000 [INFO] Extracting OTP from popup
+2025-07-22 20:57:56,174 [INFO] OTP received: 890718
+2025-07-22 20:58:03,763 [INFO] OTP verified successfully.
+2025-07-22 20:58:03,763 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 20:58:03,764 [INFO] Filling Basic details
+2025-07-22 20:58:03,764 [INFO] Uploading Cover Image
+2025-07-22 20:58:07,072 [INFO] Cover image uploaded and saved.
+2025-07-22 20:58:17,074 [INFO] Uploading Profile Image
+2025-07-22 20:58:32,329 [INFO] Clicking Save button...
+2025-07-22 20:58:32,352 [INFO] Profile image uploaded and saved.
+2025-07-22 20:58:35,697 [INFO] Gender selected.
+2025-07-22 20:58:35,697 [INFO] Selecting title and location
+2025-07-22 20:58:35,697 [INFO] Entering title and location...
+2025-07-22 20:58:36,283 [INFO] titles entered
+2025-07-22 20:58:42,375 [INFO] scrolled
+2025-07-22 20:58:57,902 [INFO] location submitted.
+2025-07-22 20:58:57,905 [INFO] Choosing Reelon goals
+2025-07-22 20:58:57,907 [INFO] Choosing user goals...
+2025-07-22 20:59:09,013 [INFO] Goals selected and submitted.
+2025-07-22 20:59:09,015 [INFO] Following stars
+2025-07-22 20:59:09,017 [INFO] Following stars...
+2025-07-22 20:59:11,477 [INFO] Followed star #1
+2025-07-22 20:59:14,267 [WARNING] Could not follow star #2: Message: element click intercepted: Element <button class="inline-flex items-center justify-center w-full rounded-[10px] bg-[#042F88] px-2 py-3 text-sm font-medium text-white transition-all duration-300 hover:bg-[#0c4bcc] hover:scale-105 hover:shadow-md transform" aria-pressed="false">...</button> is not clickable at point (723, 561). Other element would receive the click: <button class="w-full sm:w-[339px] h-[60px] px-[30px] py-[10px] text-white bg-[#042F88] flex items-center justify-between rounded-xl cursor-pointer font-poppins font-semibold uppercase tracking-[0.01em] text-[16px] leading-[24px]">...</button>
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff70aefe925+77845]
+	GetHandleVerifier [0x0x7ff70aefe980+77936]
+	(No symbol) [0x0x7ff70acb9cda]
+	(No symbol) [0x0x7ff70ad186a9]
+	(No symbol) [0x0x7ff70ad16042]
+	(No symbol) [0x0x7ff70ad13081]
+	(No symbol) [0x0x7ff70ad11f81]
+	(No symbol) [0x0x7ff70ad036c8]
+	(No symbol) [0x0x7ff70ad388ca]
+	(No symbol) [0x0x7ff70ad02f76]
+	(No symbol) [0x0x7ff70ad38ae0]
+	(No symbol) [0x0x7ff70ad60b07]
+	(No symbol) [0x0x7ff70ad386a3]
+	(No symbol) [0x0x7ff70ad01791]
+	(No symbol) [0x0x7ff70ad02523]
+	GetHandleVerifier [0x0x7ff70b1d683d+3059501]
+	GetHandleVerifier [0x0x7ff70b1d0bfd+3035885]
+	GetHandleVerifier [0x0x7ff70b1f03f0+3164896]
+	GetHandleVerifier [0x0x7ff70af18c2e+185118]
+	GetHandleVerifier [0x0x7ff70af2053f+216111]
+	GetHandleVerifier [0x0x7ff70af072d4+113092]
+	GetHandleVerifier [0x0x7ff70af07489+113529]
+	GetHandleVerifier [0x0x7ff70aeee288+10616]
+	BaseThreadInitThunk [0x0x7ff830f0e8d7+23]
+	RtlUserThreadStart [0x0x7ff83241c34c+44]
+
+2025-07-22 20:59:14,650 [INFO] Followed star #3
+2025-07-22 20:59:16,512 [INFO] Followed star #4
+2025-07-22 20:59:18,343 [INFO] Clicked Next after following stars.
+2025-07-22 20:59:21,345 [INFO] Following businesses
+2025-07-22 20:59:21,351 [INFO] Following businesses...
+2025-07-22 20:59:23,780 [INFO] Followed business at index 1
+2025-07-22 20:59:25,697 [INFO] Followed business at index 2
+2025-07-22 20:59:27,538 [INFO] Clicked Next after following businesses.
+2025-07-22 20:59:30,544 [INFO] Connecting with professionals
+2025-07-22 20:59:30,548 [INFO] Connecting with professionals...
+2025-07-22 20:59:32,811 [INFO] Connected with professional at index 1
+2025-07-22 20:59:35,112 [INFO] Connected with professional at index 2
+2025-07-22 20:59:37,444 [INFO] Connected with professional at index 3
+2025-07-22 20:59:39,710 [INFO] Clicked Next after connecting with professionals.
+2025-07-22 20:59:42,712 [INFO] Verifying signup success
+2025-07-22 20:59:42,714 [INFO] Verifying signup success...
+2025-07-22 20:59:43,576 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_20-59-43.png
+2025-07-22 23:27:37,869 [INFO]  STARTING TEST: test_login
+2025-07-22 23:27:39,928 [INFO] Navigating to login page
+2025-07-22 23:27:46,334 [INFO] Entering mobile number
+2025-07-22 23:27:49,322 [INFO] Entering OTP
+2025-07-22 23:28:12,645 [INFO]  Screenshot saved to screenshots/test_login_2025-07-22_23-28-12.png
+2025-07-22 23:32:12,779 [INFO]  STARTING TEST: test_login
+2025-07-22 23:32:14,334 [INFO] Navigating to login page
+2025-07-22 23:32:22,518 [INFO] Entering mobile number
+2025-07-22 23:32:25,520 [INFO] Entering OTP
+2025-07-22 23:32:27,663 [INFO] Verifying login success
+2025-07-22 23:35:38,913 [INFO]  STARTING TEST: test_signup
+2025-07-22 23:35:40,477 [INFO] Navigating to signup page
+2025-07-22 23:35:49,376 [INFO] Navigated to signup page.
+2025-07-22 23:35:50,837 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 23:35:50,838 [INFO] Filling signup form
+2025-07-22 23:35:50,838 [INFO] Filling signup form...
+2025-07-22 23:35:51,454 [INFO] Signup page opened
+2025-07-22 23:35:51,676 [INFO] phone number entered
+2025-07-22 23:35:53,742 [INFO] All validations passed, proceeding with signup.
+2025-07-22 23:35:53,977 [INFO] Submitted signup form.
+2025-07-22 23:35:53,978 [INFO] Extracting OTP from popup
+2025-07-22 23:35:55,618 [INFO] OTP received: 952798
+2025-07-22 23:36:03,139 [INFO] OTP verified successfully.
+2025-07-22 23:36:03,140 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 23:36:03,140 [INFO] Filling Basic details
+2025-07-22 23:36:03,140 [INFO] Uploading Cover Image
+2025-07-22 23:36:06,476 [INFO] Cover image uploaded and saved.
+2025-07-22 23:36:16,477 [INFO] Uploading Profile Image
+2025-07-22 23:36:31,710 [INFO] Clicking Save button...
+2025-07-22 23:36:31,725 [INFO] Profile image uploaded and saved.
+2025-07-22 23:36:34,947 [INFO] Gender selected.
+2025-07-22 23:36:34,948 [INFO] Selecting title and location
+2025-07-22 23:36:34,948 [INFO] Entering title and location...
+2025-07-22 23:36:35,338 [INFO] titles entered
+2025-07-22 23:36:41,385 [INFO] scrolled
+2025-07-22 23:36:57,070 [INFO] location submitted.
+2025-07-22 23:36:57,072 [INFO] Choosing Reelon goals
+2025-07-22 23:36:57,073 [INFO] Choosing user goals...
+2025-07-22 23:37:07,979 [INFO] Goals selected and submitted.
+2025-07-22 23:37:07,981 [INFO] Following stars
+2025-07-22 23:37:07,982 [INFO] Following stars...
+2025-07-22 23:37:10,310 [INFO] Followed star #1
+2025-07-22 23:37:11,988 [INFO] Followed star #2
+2025-07-22 23:37:14,728 [WARNING] Could not follow star #3: Message: element click intercepted: Element <button class="inline-flex items-center justify-center w-full rounded-[10px] bg-[#042F88] px-2 py-3 text-sm font-medium text-white transition-all duration-300 hover:bg-[#0c4bcc] hover:scale-105 hover:shadow-md transform" aria-pressed="false">...</button> is not clickable at point (1284, 562). Other element would receive the click: <div class="sticky lg:bottom-10 bottom-14 flex justify-start w-full mt-8">...</div>
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff64e91e925+77845]
+	GetHandleVerifier [0x0x7ff64e91e980+77936]
+	(No symbol) [0x0x7ff64e6d9cda]
+	(No symbol) [0x0x7ff64e7386a9]
+	(No symbol) [0x0x7ff64e736042]
+	(No symbol) [0x0x7ff64e733081]
+	(No symbol) [0x0x7ff64e731f81]
+	(No symbol) [0x0x7ff64e7236c8]
+	(No symbol) [0x0x7ff64e7588ca]
+	(No symbol) [0x0x7ff64e722f76]
+	(No symbol) [0x0x7ff64e758ae0]
+	(No symbol) [0x0x7ff64e780b07]
+	(No symbol) [0x0x7ff64e7586a3]
+	(No symbol) [0x0x7ff64e721791]
+	(No symbol) [0x0x7ff64e722523]
+	GetHandleVerifier [0x0x7ff64ebf683d+3059501]
+	GetHandleVerifier [0x0x7ff64ebf0bfd+3035885]
+	GetHandleVerifier [0x0x7ff64ec103f0+3164896]
+	GetHandleVerifier [0x0x7ff64e938c2e+185118]
+	GetHandleVerifier [0x0x7ff64e94053f+216111]
+	GetHandleVerifier [0x0x7ff64e9272d4+113092]
+	GetHandleVerifier [0x0x7ff64e927489+113529]
+	GetHandleVerifier [0x0x7ff64e90e288+10616]
+	BaseThreadInitThunk [0x0x7ff830f0e8d7+23]
+	RtlUserThreadStart [0x0x7ff83241c34c+44]
+
+2025-07-22 23:37:14,878 [INFO] Followed star #4
+2025-07-22 23:37:16,565 [INFO] Clicked Next after following stars.
+2025-07-22 23:37:19,567 [INFO] Following businesses
+2025-07-22 23:37:19,568 [INFO] Following businesses...
+2025-07-22 23:37:21,754 [INFO] Followed business at index 1
+2025-07-22 23:37:23,400 [INFO] Followed business at index 2
+2025-07-22 23:37:25,099 [INFO] Clicked Next after following businesses.
+2025-07-22 23:37:28,101 [INFO] Connecting with professionals
+2025-07-22 23:37:28,101 [INFO] Connecting with professionals...
+2025-07-22 23:37:30,310 [INFO] Connected with professional at index 1
+2025-07-22 23:37:33,147 [INFO] Connected with professional at index 2
+2025-07-22 23:37:35,281 [INFO] Connected with professional at index 3
+2025-07-22 23:37:37,613 [INFO] Clicked Next after connecting with professionals.
+2025-07-22 23:37:41,684 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_23-37-41.png
+2025-07-22 23:47:14,532 [INFO]  STARTING TEST: test_signup
+2025-07-22 23:47:16,121 [INFO] Navigating to signup page
+2025-07-22 23:47:22,315 [INFO] Navigated to signup page.
+2025-07-22 23:47:23,807 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 23:47:23,808 [INFO] Filling signup form
+2025-07-22 23:47:23,808 [INFO] Filling signup form...
+2025-07-22 23:47:24,404 [INFO] Signup page opened
+2025-07-22 23:47:24,616 [INFO] phone number entered
+2025-07-22 23:47:26,708 [INFO] All validations passed, proceeding with signup.
+2025-07-22 23:47:26,897 [INFO] Submitted signup form.
+2025-07-22 23:47:26,897 [INFO] Extracting OTP from popup
+2025-07-22 23:47:28,041 [INFO] OTP received: 573889
+2025-07-22 23:47:35,743 [INFO] OTP verified successfully.
+2025-07-22 23:47:35,743 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 23:47:35,743 [INFO] Filling Basic details
+2025-07-22 23:47:35,744 [INFO] Uploading Cover Image
+2025-07-22 23:47:39,176 [INFO] Cover image uploaded and saved.
+2025-07-22 23:47:49,177 [INFO] Uploading Profile Image
+2025-07-22 23:48:04,404 [INFO] Clicking Save button...
+2025-07-22 23:48:04,420 [INFO] Profile image uploaded and saved.
+2025-07-22 23:48:07,647 [INFO] Gender selected.
+2025-07-22 23:48:07,647 [INFO] Selecting title and location
+2025-07-22 23:48:07,648 [INFO] Entering title and location...
+2025-07-22 23:48:07,921 [INFO] titles entered
+2025-07-22 23:48:13,993 [INFO] scrolled
+2025-07-22 23:48:29,755 [INFO] location submitted.
+2025-07-22 23:48:29,757 [INFO] Choosing Reelon goals
+2025-07-22 23:48:29,759 [INFO] Choosing user goals...
+2025-07-22 23:48:41,053 [INFO] Goals selected and submitted.
+2025-07-22 23:48:41,054 [INFO] Following stars
+2025-07-22 23:48:41,054 [INFO] Following stars...
+2025-07-22 23:48:43,634 [INFO] Followed star #1
+2025-07-22 23:48:45,673 [INFO] Followed star #2
+2025-07-22 23:48:47,528 [INFO] Followed star #3
+2025-07-22 23:48:49,587 [INFO] Clicked Next after following stars.
+2025-07-22 23:48:52,589 [INFO] Following businesses
+2025-07-22 23:48:52,589 [INFO] Following businesses...
+2025-07-22 23:48:55,194 [INFO] Followed business at index 1
+2025-07-22 23:48:56,982 [INFO] Followed business at index 2
+2025-07-22 23:48:58,928 [INFO] Clicked Next after following businesses.
+2025-07-22 23:49:01,929 [INFO] Connecting with professionals
+2025-07-22 23:49:01,931 [INFO] Connecting with professionals...
+2025-07-22 23:49:04,429 [INFO] Connected with professional at index 1
+2025-07-22 23:49:06,893 [INFO] Connected with professional at index 2
+2025-07-22 23:49:09,335 [INFO] Connected with professional at index 3
+2025-07-22 23:49:11,790 [INFO] Clicked Next after connecting with professionals.
+2025-07-22 23:49:15,593 [INFO]  Screenshot saved to screenshots/test_signup_2025-07-22_23-49-15.png
+2025-07-22 23:53:30,173 [INFO]  STARTING TEST: test_signup
+2025-07-22 23:53:31,654 [INFO] Navigating to signup page
+2025-07-22 23:53:37,429 [INFO] Navigated to signup page.
+2025-07-22 23:53:39,137 [INFO] Clicked 'Join reelOn' link.
+2025-07-22 23:53:39,138 [INFO] Filling signup form
+2025-07-22 23:53:39,138 [INFO] Filling signup form...
+2025-07-22 23:53:39,772 [INFO] Signup page opened
+2025-07-22 23:53:39,950 [INFO] phone number entered
+2025-07-22 23:53:42,077 [INFO] All validations passed, proceeding with signup.
+2025-07-22 23:53:42,240 [INFO] Submitted signup form.
+2025-07-22 23:53:42,241 [INFO] Extracting OTP from popup
+2025-07-22 23:53:43,372 [INFO] OTP received: 481439
+2025-07-22 23:53:51,070 [INFO] OTP verified successfully.
+2025-07-22 23:53:51,071 [INFO] Entering  gender , cover image and profile image 
+2025-07-22 23:53:51,071 [INFO] Filling Basic details
+2025-07-22 23:53:51,071 [INFO] Uploading Cover Image
+2025-07-22 23:53:54,427 [INFO] Cover image uploaded and saved.
+2025-07-22 23:54:04,430 [INFO] Uploading Profile Image
+2025-07-22 23:54:19,665 [INFO] Clicking Save button...
+2025-07-22 23:54:19,680 [INFO] Profile image uploaded and saved.
+2025-07-22 23:54:22,930 [INFO] Gender selected.
+2025-07-22 23:54:22,931 [INFO] Selecting title and location
+2025-07-22 23:54:22,931 [INFO] Entering title and location...
+2025-07-22 23:54:23,271 [INFO] titles entered
+2025-07-22 23:54:29,351 [INFO] scrolled
+2025-07-22 23:54:45,459 [INFO] location submitted.
+2025-07-22 23:54:45,461 [INFO] Choosing Reelon goals
+2025-07-22 23:54:45,464 [INFO] Choosing user goals...
+2025-07-22 23:54:56,196 [INFO] Goals selected and submitted.
+2025-07-22 23:54:56,197 [INFO] Following stars
+2025-07-22 23:54:56,198 [INFO] Following stars...
+2025-07-22 23:54:58,496 [INFO] Followed star #1
+2025-07-22 23:55:00,479 [INFO] Followed star #2
+2025-07-22 23:55:02,347 [INFO] Followed star #3
+2025-07-22 23:55:04,509 [INFO] Clicked Next after following stars.
+2025-07-22 23:55:07,511 [INFO] Following businesses
+2025-07-22 23:55:07,512 [INFO] Following businesses...
+2025-07-22 23:55:09,955 [INFO] Followed business at index 1
+2025-07-22 23:55:11,705 [INFO] Followed business at index 2
+2025-07-22 23:55:13,496 [INFO] Clicked Next after following businesses.
+2025-07-22 23:55:16,497 [INFO] Connecting with professionals
+2025-07-22 23:55:16,499 [INFO] Connecting with professionals...
+2025-07-22 23:55:19,065 [INFO] Connected with professional at index 1
+2025-07-22 23:55:21,467 [INFO] Connected with professional at index 2
+2025-07-22 23:55:23,853 [INFO] Connected with professional at index 3
+2025-07-22 23:55:26,375 [INFO] Clicked Next after connecting with professionals.
+2025-07-22 23:55:29,376 [INFO] Clicking 'Finish Setup Account' button...
+2025-07-22 23:55:31,345 [INFO] Verifying signup success
+2025-07-22 23:55:31,346 [INFO] Verifying if user reached 'My reelOn' dashboard...
+2025-07-22 23:57:28,425 [INFO]  STARTING TEST: test_profile_setup
+2025-07-22 23:59:21,742 [INFO]  STARTING TEST: test_profile_setup
+2025-07-22 23:59:43,030 [INFO] Uploading cover photo...
+2025-07-22 23:59:46,609 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-22_23-59-46.png
+2025-07-23 00:08:31,318 [INFO]  STARTING TEST: test_profile_setup
+2025-07-23 00:08:53,754 [INFO] Uploading cover photo...
+2025-07-23 00:09:12,837 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-23_00-09-12.png
+2025-07-23 00:13:23,606 [INFO]  STARTING TEST: test_profile_setup
+2025-07-23 00:13:43,795 [INFO] Uploading cover photo...
+2025-07-23 00:13:57,536 [INFO] Uploading profile photo...
+2025-07-23 00:15:03,761 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-23_00-15-03.png
+2025-07-23 00:19:28,951 [INFO]  STARTING TEST: test_profile_setup
+2025-07-23 00:19:48,728 [INFO] Uploading cover photo...
+2025-07-23 00:20:03,088 [INFO] Uploading profile photo...
+2025-07-23 00:20:52,702 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-23_00-20-52.png
+2025-07-23 00:24:05,740 [INFO]  STARTING TEST: test_profile_setup
+2025-07-23 00:24:25,304 [INFO] Uploading cover photo...
+2025-07-23 00:24:37,889 [INFO] Uploading profile photo...
+2025-07-23 00:26:00,161 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-23_00-25-59.png
+2025-07-23 00:27:52,493 [INFO]  STARTING TEST: test_profile_setup
+2025-07-23 00:28:13,531 [INFO] Uploading cover photo...
+2025-07-23 00:28:26,324 [INFO] Uploading profile photo...
+2025-07-23 00:30:05,268 [INFO]  Screenshot saved to screenshots/test_profile_setup_2025-07-23_00-30-04.png
+2025-07-23 08:46:41,914 [INFO]  STARTING TEST: test_signup
+2025-07-23 08:46:49,153 [INFO] Navigating to signup page
+2025-07-23 08:46:54,139 [INFO] Navigated to signup page.
+2025-07-23 08:46:55,693 [INFO] Clicked 'Join reelOn' link.
+2025-07-23 08:46:55,693 [INFO] Filling signup form
+2025-07-23 08:46:55,694 [INFO] Filling signup form...
+2025-07-23 08:46:56,297 [INFO] Signup page opened
+2025-07-23 08:46:56,505 [INFO] phone number entered
+2025-07-23 08:46:59,446 [INFO] All validations passed, proceeding with signup.
+2025-07-23 08:46:59,590 [INFO] Submitted signup form.
+2025-07-23 08:46:59,591 [INFO] Extracting OTP from popup
+2025-07-23 08:47:00,687 [INFO] OTP received: 822170
+2025-07-23 08:47:08,242 [INFO] OTP verified successfully.
+2025-07-23 08:47:08,243 [INFO] Entering  gender , cover image and profile image 
+2025-07-23 08:47:08,243 [INFO] Filling Basic details
+2025-07-23 08:47:08,243 [INFO] Uploading Cover Image
+2025-07-23 08:47:11,517 [INFO] Cover image uploaded and saved.
+2025-07-23 08:47:16,516 [INFO] Uploading Profile Image
+2025-07-23 08:47:21,698 [INFO] Clicking Save button...
+2025-07-23 08:47:21,725 [INFO] Profile image uploaded and saved.
+2025-07-23 08:47:24,955 [INFO] Gender selected.
+2025-07-23 08:47:24,955 [INFO] Selecting title and location
+2025-07-23 08:47:24,956 [INFO] Entering title and location...
+2025-07-23 08:47:25,245 [INFO] titles entered
+2025-07-23 08:47:31,295 [INFO] scrolled
+2025-07-23 08:47:47,211 [INFO] location submitted.
+2025-07-23 08:47:47,212 [INFO] Choosing Reelon goals
+2025-07-23 08:47:47,212 [INFO] Choosing user goals...
+2025-07-23 08:47:54,921 [INFO] Goals selected and submitted.
+2025-07-23 08:47:54,923 [INFO] Following stars
+2025-07-23 08:47:54,925 [INFO] Following stars...
+2025-07-23 08:47:57,132 [INFO] Followed star #1
+2025-07-23 08:47:58,850 [INFO] Followed star #2
+2025-07-23 08:48:00,524 [INFO] Followed star #3
+2025-07-23 08:48:02,165 [INFO] Clicked Next after following stars.
+2025-07-23 08:48:05,166 [INFO] Following businesses
+2025-07-23 08:48:05,167 [INFO] Following businesses...
+2025-07-23 08:48:07,396 [INFO] Followed business at index 1
+2025-07-23 08:48:09,079 [INFO] Followed business at index 2
+2025-07-23 08:48:10,741 [INFO] Clicked Next after following businesses.
+2025-07-23 08:48:13,741 [INFO] Connecting with professionals
+2025-07-23 08:48:13,742 [INFO] Connecting with professionals...
+2025-07-23 08:48:15,948 [INFO] Connected with professional at index 1
+2025-07-23 08:48:18,093 [WARNING] Skipped connect button at index 2: Message: element not interactable
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7741fe935+77845]
+	GetHandleVerifier [0x0x7ff7741fe990+77936]
+	(No symbol) [0x0x7ff773fb9b0c]
+	(No symbol) [0x0x7ff774011ba4]
+	(No symbol) [0x0x7ff7740036c8]
+	(No symbol) [0x0x7ff7740388ca]
+	(No symbol) [0x0x7ff774002f76]
+	(No symbol) [0x0x7ff774038ae0]
+	(No symbol) [0x0x7ff774060b07]
+	(No symbol) [0x0x7ff7740386a3]
+	(No symbol) [0x0x7ff774001791]
+	(No symbol) [0x0x7ff774002523]
+	GetHandleVerifier [0x0x7ff7744d684d+3059501]
+	GetHandleVerifier [0x0x7ff7744d0c0d+3035885]
+	GetHandleVerifier [0x0x7ff7744f0400+3164896]
+	GetHandleVerifier [0x0x7ff774218c3e+185118]
+	GetHandleVerifier [0x0x7ff77422054f+216111]
+	GetHandleVerifier [0x0x7ff7742072e4+113092]
+	GetHandleVerifier [0x0x7ff774207499+113529]
+	GetHandleVerifier [0x0x7ff7741ee298+10616]
+	BaseThreadInitThunk [0x0x7ff830f0e8d7+23]
+	RtlUserThreadStart [0x0x7ff83241c34c+44]
+
+2025-07-23 08:48:18,270 [INFO] Connected with professional at index 3
+2025-07-23 08:48:20,430 [INFO] Connected with professional at index 4
+2025-07-23 08:48:22,572 [INFO] Clicked Next after connecting with professionals.
+2025-07-23 08:48:25,572 [INFO] Clicking 'Finish Setup Account' button...
+2025-07-23 08:48:25,832 [INFO] Verifying signup success
+2025-07-23 08:48:25,832 [INFO] Verifying if user reached 'My reelOn' dashboard...
+2025-07-23 08:48:40,484 [INFO]  STARTING TEST: test_signup
+2025-07-23 08:48:42,057 [INFO] Navigating to signup page
+2025-07-23 08:48:47,405 [INFO] Navigated to signup page.
+2025-07-23 08:48:48,722 [INFO] Clicked 'Join reelOn' link.
+2025-07-23 08:48:48,722 [INFO] Filling signup form
+2025-07-23 08:48:48,722 [INFO] Filling signup form...
+2025-07-23 08:48:49,313 [INFO] Signup page opened
+2025-07-23 08:48:49,509 [INFO] phone number entered
+2025-07-23 08:48:51,637 [INFO] All validations passed, proceeding with signup.
+2025-07-23 08:48:51,822 [INFO] Submitted signup form.
+2025-07-23 08:48:51,823 [INFO] Extracting OTP from popup
+2025-07-23 08:48:52,941 [INFO] OTP received: 274940
+2025-07-23 08:49:00,600 [INFO] OTP verified successfully.
+2025-07-23 08:49:00,601 [INFO] Entering  gender , cover image and profile image 
+2025-07-23 08:49:00,601 [INFO] Filling Basic details
+2025-07-23 08:49:00,601 [INFO] Uploading Cover Image
+2025-07-23 08:49:03,987 [INFO] Cover image uploaded and saved.
+2025-07-23 08:49:08,987 [INFO] Uploading Profile Image
+2025-07-23 08:49:14,192 [INFO] Clicking Save button...
+2025-07-23 08:49:14,213 [INFO] Profile image uploaded and saved.
+2025-07-23 08:49:17,483 [INFO] Gender selected.
+2025-07-23 08:49:17,484 [INFO] Selecting title and location
+2025-07-23 08:49:17,484 [INFO] Entering title and location...
+2025-07-23 08:49:17,858 [INFO] titles entered
+2025-07-23 08:49:23,922 [INFO] scrolled
+2025-07-23 08:49:40,005 [INFO] location submitted.
+2025-07-23 08:49:40,007 [INFO] Choosing Reelon goals
+2025-07-23 08:49:40,010 [INFO] Choosing user goals...
+2025-07-23 08:49:47,907 [INFO] Goals selected and submitted.
+2025-07-23 08:49:47,909 [INFO] Following stars
+2025-07-23 08:49:47,912 [INFO] Following stars...
+2025-07-23 08:49:50,195 [INFO] Followed star #1
+2025-07-23 08:49:52,045 [INFO] Followed star #2
+2025-07-23 08:49:53,884 [INFO] Followed star #3
+2025-07-23 08:49:55,786 [INFO] Clicked Next after following stars.
+2025-07-23 08:49:58,788 [INFO] Following businesses
+2025-07-23 08:49:58,790 [INFO] Following businesses...
+2025-07-23 08:50:01,069 [INFO] Followed business at index 1
+2025-07-23 08:50:02,806 [INFO] Followed business at index 2
+2025-07-23 08:50:04,639 [INFO] Clicked Next after following businesses.
+2025-07-23 08:50:07,640 [INFO] Connecting with professionals
+2025-07-23 08:50:07,641 [INFO] Connecting with professionals...
+2025-07-23 08:50:10,222 [INFO] Connected with professional at index 1
+2025-07-23 08:50:12,738 [INFO] Connected with professional at index 2
+2025-07-23 08:50:15,164 [INFO] Connected with professional at index 3
+2025-07-23 08:50:17,572 [INFO] Clicked Next after connecting with professionals.
+2025-07-23 08:50:20,573 [INFO] Clicking 'Finish Setup Account' button...
+2025-07-23 08:50:21,345 [INFO] Verifying signup success
+2025-07-23 08:50:21,345 [INFO] Verifying if user reached 'My reelOn' dashboard...
+2025-07-23 09:28:57,252 [INFO]  STARTING TEST: test_signup
+2025-07-23 09:28:58,785 [INFO] Navigating to signup page
+2025-07-23 09:29:04,183 [INFO] Navigated to signup page.
+2025-07-23 09:29:05,632 [INFO] Clicked 'Join reelOn' link.
+2025-07-23 09:29:05,633 [INFO] Filling signup form
+2025-07-23 09:29:05,636 [INFO] Filling signup form...
+2025-07-23 09:29:06,263 [INFO] Signup page opened
+2025-07-23 09:29:06,448 [INFO] phone number entered
+2025-07-23 09:29:08,486 [INFO] All validations passed, proceeding with signup.
+2025-07-23 09:29:08,628 [INFO] Submitted signup form.
+2025-07-23 09:29:08,629 [INFO] Extracting OTP from popup
+2025-07-23 09:29:09,759 [INFO] OTP received: 950018
+2025-07-23 09:29:17,204 [INFO] OTP verified successfully.
+2025-07-23 09:29:17,205 [INFO] Entering  gender , cover image and profile image 
+2025-07-23 09:29:17,205 [INFO] Filling Basic details
+2025-07-23 09:29:17,205 [INFO] Uploading Cover Image
+2025-07-23 09:29:20,484 [INFO] Cover image uploaded and saved.
+2025-07-23 09:29:25,485 [INFO] Uploading Profile Image
+2025-07-23 09:29:30,611 [INFO] Clicking Save button...
+2025-07-23 09:29:30,637 [INFO] Profile image uploaded and saved.
+2025-07-23 09:29:33,830 [INFO] Gender selected.
+2025-07-23 09:29:33,830 [INFO] Selecting title and location
+2025-07-23 09:29:33,831 [INFO] Entering title and location...
+2025-07-23 09:29:34,132 [INFO] titles entered
+2025-07-23 09:29:40,157 [INFO] scrolled
+2025-07-23 09:29:56,164 [INFO] location submitted.
+2025-07-23 09:29:56,165 [INFO] Choosing Reelon goals
+2025-07-23 09:29:56,167 [INFO] Choosing user goals...
+2025-07-23 09:30:03,756 [INFO] Goals selected and submitted.
+2025-07-23 09:30:03,757 [INFO] Following stars
+2025-07-23 09:30:03,757 [INFO] Following stars...
+2025-07-23 09:30:05,984 [INFO] Followed star #1
+2025-07-23 09:30:07,627 [INFO] Followed star #2
+2025-07-23 09:30:09,303 [INFO] Followed star #3
+2025-07-23 09:30:10,957 [INFO] Clicked Next after following stars.
+2025-07-23 09:30:13,958 [INFO] Following businesses
+2025-07-23 09:30:13,960 [INFO] Following businesses...
+2025-07-23 09:30:16,085 [INFO] Followed business at index 1
+2025-07-23 09:30:17,696 [INFO] Followed business at index 2
+2025-07-23 09:30:19,340 [INFO] Clicked Next after following businesses.
+2025-07-23 09:30:22,343 [INFO] Connecting with professionals
+2025-07-23 09:30:22,344 [INFO] Connecting with professionals...
+2025-07-23 09:30:24,483 [INFO] Connected with professional at index 1
+2025-07-23 09:30:26,579 [WARNING] Skipped connect button at index 2: Message: element not interactable
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7b185e935+77845]
+	GetHandleVerifier [0x0x7ff7b185e990+77936]
+	(No symbol) [0x0x7ff7b1619b0c]
+	(No symbol) [0x0x7ff7b1671ba4]
+	(No symbol) [0x0x7ff7b16636c8]
+	(No symbol) [0x0x7ff7b16988ca]
+	(No symbol) [0x0x7ff7b1662f76]
+	(No symbol) [0x0x7ff7b1698ae0]
+	(No symbol) [0x0x7ff7b16c0b07]
+	(No symbol) [0x0x7ff7b16986a3]
+	(No symbol) [0x0x7ff7b1661791]
+	(No symbol) [0x0x7ff7b1662523]
+	GetHandleVerifier [0x0x7ff7b1b3684d+3059501]
+	GetHandleVerifier [0x0x7ff7b1b30c0d+3035885]
+	GetHandleVerifier [0x0x7ff7b1b50400+3164896]
+	GetHandleVerifier [0x0x7ff7b1878c3e+185118]
+	GetHandleVerifier [0x0x7ff7b188054f+216111]
+	GetHandleVerifier [0x0x7ff7b18672e4+113092]
+	GetHandleVerifier [0x0x7ff7b1867499+113529]
+	GetHandleVerifier [0x0x7ff7b184e298+10616]
+	BaseThreadInitThunk [0x0x7ff830f0e8d7+23]
+	RtlUserThreadStart [0x0x7ff83241c34c+44]
+
+2025-07-23 09:30:26,722 [INFO] Connected with professional at index 3
+2025-07-23 09:30:28,898 [INFO] Connected with professional at index 4
+2025-07-23 09:30:31,030 [INFO] Clicked Next after connecting with professionals.
+2025-07-23 09:30:34,032 [INFO] Clicking 'Finish Setup Account' button...
+2025-07-23 09:30:34,281 [INFO] Verifying signup success
+2025-07-23 09:30:34,281 [INFO] Verifying if user reached 'My reelOn' dashboard...
